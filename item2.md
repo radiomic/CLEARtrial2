@@ -1,6 +1,6 @@
 ---
 title: item1
-
+layout: home
 ---
 
 CLEAR item#1
