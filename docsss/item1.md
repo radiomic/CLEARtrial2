@@ -3,9 +3,9 @@ title: item1
 layout: home
 
 callouts:
-  highlight:
-    title: High 
-    color: yellow
+  custom:
+    color: pink
+    opacity: 0.3
 ---
 
 #CLEAR item#1
