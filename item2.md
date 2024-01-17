@@ -1,6 +1,7 @@
 ---
-title: item
+title: item1
 layout: home
 ---
 
-item#2
+item1 explanation
+
