@@ -4,8 +4,8 @@ layout: home
 
 callouts:
   warning:
-    title: Warning
-    color: red
+    title: highlight 
+    color: yellow
 ---
 
 #CLEAR item#1
