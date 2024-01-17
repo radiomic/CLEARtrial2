@@ -11,13 +11,12 @@ layout: home
 
 “Relevant title, specifying the radiomic methodology. Indicate the use of radiomics in the title. The following details can also be considered to be specified in the title: radiomic technique (e.g., hand-crafted, engineered, deep, delta, etc.), modality (e.g., computed tomography [CT], magnetic resonance imaging [MRI], ultrasound), important aspects of the scans (e.g., unenhanced, dynamic), use of machine learning (e.g., machine learning-based), external validation, and multi-center design.” [1] (from the article by Kocak et al.; licensed under CC BY 4.0)
 
-{: .important-title }
 
-> ## Reporting examples for CLEAR item#1
+## Reporting examples for CLEAR item#1
 
-> *Example#1.* “Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance” [2] (from the article by Sushentsev et al.; licensed under CC BY 4.0)
+*Example#1.* “Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance” [2] (from the article by Sushentsev et al.; licensed under CC BY 4.0)
 
-> *Example#2.* “Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study” [3] (from the article by Gu et al.; licensed under CC BY-NC-ND 4.0)
+*Example#2.* “Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study” [3] (from the article by Gu et al.; licensed under CC BY-NC-ND 4.0)
 
 ## Explanation and elaboration of CLEAR item#1
 
