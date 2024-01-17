@@ -3,7 +3,7 @@ title: item1
 layout: home
 
 callouts:
-  warning:
+  highlight:
     title: highlight 
     color: yellow
 ---
