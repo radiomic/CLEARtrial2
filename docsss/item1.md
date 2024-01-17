@@ -1,6 +1,11 @@
 ---
 title: item1
 layout: home
+
+callouts:
+  warning:
+    title: Warning
+    color: red
 ---
 
 #CLEAR item#1
