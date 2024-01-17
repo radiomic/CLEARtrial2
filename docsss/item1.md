@@ -14,9 +14,9 @@ layout: home
 
 ### Reporting examples for CLEAR item#1
 
-*Example#1.* “Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance” [2] (from the article by Sushentsev et al.; licensed under CC BY 4.0)
+**Example#1.** “Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance” [2] (from the article by Sushentsev et al.; licensed under CC BY 4.0)
 
-*Example#2.* “Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study” [3] (from the article by Gu et al.; licensed under CC BY-NC-ND 4.0)
+**Example#2.** “Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study” [3] (from the article by Gu et al.; licensed under CC BY-NC-ND 4.0)
 
 ### Explanation and elaboration of CLEAR item#1
 
