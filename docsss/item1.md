@@ -5,6 +5,7 @@ layout: home
 
 #CLEAR item#1
 
+{: .highlight }
 “Relevant title, specifying the radiomic methodology. Indicate the use of radiomics in the title. The following details can also be considered to be specified in the title: radiomic technique (e.g., hand-crafted, engineered, deep, delta, etc.), modality (e.g., computed tomography [CT], magnetic resonance imaging [MRI], ultrasound), important aspects of the scans (e.g., unenhanced, dynamic), use of machine learning (e.g., machine learning-based), external validation, and multi-center design.” [1] (from the article by Kocak et al.; licensed under CC BY 4.0)
 
 {: .important-title }
