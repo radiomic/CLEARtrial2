@@ -4,7 +4,7 @@ layout: home
 
 callouts:
   highlight:
-    title: highlight 
+    title: High 
     color: yellow
 ---
 
