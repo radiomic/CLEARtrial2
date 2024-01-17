@@ -3,7 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 # External navigation links
-nav_external_links_new_tab: true
+opens_in_new_tab: true
 
 
 #url: https://just-the-docs.github.io
