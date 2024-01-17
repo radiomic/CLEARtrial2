@@ -2,10 +2,7 @@
 title: item1
 layout: home
 
-callouts:
-  highlight:
-    color: pink
-    opacity: 0.3
+
 ---
 
 #CLEAR item#1
