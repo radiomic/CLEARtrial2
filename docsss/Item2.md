@@ -1,4 +1,4 @@
 ---
-title: item2
+title: Item2
 layout: home
 ---
