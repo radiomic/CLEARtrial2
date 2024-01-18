@@ -1,5 +1,5 @@
 ---
-title: item1
+title: Item1
 layout: home
 
 nav_external_links:
