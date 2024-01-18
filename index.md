@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 ## How to report radiomics research according to CLEAR: good examples with explanation and elaboration by EuSoMII Radiomics Auditing Group
