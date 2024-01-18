@@ -1,6 +1,7 @@
 ---
 title: Item#12
 layout: home
+nav_order: 4
 
 ---
 ## CLEAR item#12
