@@ -11,7 +11,9 @@ layout: home
 ### Reporting examples for item#12
 
 > Example#1. See Figure 1.
-> ![Fig1](CLEARtrial2/figs/Figure 1.png)
+
+> ![Fig1](/CLEARtrial2/figs/Figure 1.png)
+
 > Figure 1. “Flowchart showing the process of radiomics analysis. LASSO least absolute shrinkage and selection operator; ROC receiver operating characteristic.” [39] (from the article by Lee et al.; licensed under CC BY 4.0)
 Example#2. See Figure 2.
  
