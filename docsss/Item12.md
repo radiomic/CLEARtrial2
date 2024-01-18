@@ -1,7 +1,7 @@
 ---
 title: Item12
 layout: home
-
+nav_order: 12
 ---
 ## CLEAR item#12
 “Flowchart for technical pipeline. Provide a flowchart for summarizing the key methodological steps in the study. Due to the complex nature of the radiomic approaches, such flowcharts help readers better understand the methodology.” [1] (from the article by Kocak et al.; licensed under CC BY 4.0)
