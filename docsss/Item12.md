@@ -16,10 +16,14 @@ layout: home
 
 > **Figure 1.** “Flowchart showing the process of radiomics analysis. LASSO least absolute shrinkage and selection operator; ROC receiver operating characteristic.” [39] (from the article by Lee et al.; licensed under CC BY 4.0)
 Example#2. See Figure 2.
+
+> ![Fig1](/CLEARtrial2/figs/Figure 2.png)
  
 > **Figure 2.** “Flowchart presented the step-by-step procedures in machine learning model construction.” [26] (from the article by He et al.; licensed under CC BY 4.0)
 
 > **Example#3.** See Figure 3.
+
+> ![Fig1](/CLEARtrial2/figs/Figure 3.png)
  
 > **Figure 3.** “Workflow of study design.” [40] (from the article by Jan et al.; licensed under CC BY 4.0)
 
