@@ -1,6 +1,7 @@
 ---
 title: Item1
 layout: home
+nav_order: 2
 
 nav_external_links:
   - title: item1
