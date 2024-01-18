@@ -1,13 +1,7 @@
 ---
 title: Item#1
 layout: home
-
-
-nav_external_links:
-  - title: item1
-    
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+nav_order: 2
 ---
 
 ## CLEAR item#1
