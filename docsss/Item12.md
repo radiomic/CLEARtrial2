@@ -35,9 +35,9 @@ Technical details of a radiomics methodology can be very complex. Providing a fl
 
 ### References
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
-2. 	Lee JW, Park CH, Im DJ, et al (2022) CT-based radiomics signature for differentiation between cardiac tumors and a thrombi: a retrospective, multicenter study. Sci Rep 12:8173. https://doi.org/10.1038/s41598-022-12229-x
-3. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. https://doi.org/10.1186/s13244-022-01349-7
-4. 	Jan Y-T, Tsai P-S, Huang W-H, et al (2023) Machine learning combined with radiomics and deep learning features extracted from CT images: a novel AI model to distinguish benign from malignant ovarian tumors. Insights Imaging 14:68. https://doi.org/10.1186/s13244-023-01412-x
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
+2. 	Lee JW, Park CH, Im DJ, et al (2022) CT-based radiomics signature for differentiation between cardiac tumors and a thrombi: a retrospective, multicenter study. Sci Rep 12:8173. [https://doi.org/10.1038/s41598-022-12229-x](https://doi.org/10.1038/s41598-022-12229-x)
+3. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. [https://doi.org/10.1186/s13244-022-01349-7](https://doi.org/10.1186/s13244-022-01349-7)
+4. 	Jan Y-T, Tsai P-S, Huang W-H, et al (2023) Machine learning combined with radiomics and deep learning features extracted from CT images: a novel AI model to distinguish benign from malignant ovarian tumors. Insights Imaging 14:68. [https://doi.org/10.1186/s13244-023-01412-x](https://doi.org/10.1186/s13244-023-01412-x)
 
 
