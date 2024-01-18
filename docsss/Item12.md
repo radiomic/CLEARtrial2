@@ -25,7 +25,7 @@ nav_order: 12
 
 > **Example#3.** See Figure 3.
 >
-> ![Fig1](/CLEARtrial2/figs/Figure 3.png)
+> ![Fig1](/CLEARtrial2/figs/Figure 3.png)                                          
 >
 > **Figure 3.** “Workflow of study design.” [4] (from [the article by Jan et al.](https://doi.org/10.1186/s13244-023-01412-x); licensed under CC BY 4.0)
 
