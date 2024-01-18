@@ -12,24 +12,24 @@ nav_order: 12
 ### Reporting examples for item#12
 
 > **Example#1.** See Figure 1.
-
-![Fig1](/CLEARtrial2/figs/Figure 1.png)
-
+>
+> ![Fig1](/CLEARtrial2/figs/Figure 1.png)
+>
 > **Figure 1.** “Flowchart showing the process of radiomics analysis. LASSO least absolute shrinkage and selection operator; ROC receiver operating characteristic.” [2] (from [the article by Lee et al.](https://doi.org/10.1038/s41598-022-12229-x); licensed under CC BY 4.0)
-
+>
 > **Example#2.** See Figure 2.
-
+>
 > ![Fig1](/CLEARtrial2/figs/Figure 2.png)
- 
+>
 > **Figure 2.** “Flowchart presented the step-by-step procedures in machine learning model construction.” [3] (from [the article by He et al.](https://doi.org/10.1186/s13244-022-01349-7); licensed under CC BY 4.0)
-
+>
 > **Example#3.** See Figure 3.
-
+>
 > ![Fig1](/CLEARtrial2/figs/Figure 3.png)
- 
+>
 > **Figure 3.** “Workflow of study design.” [4] (from [the article by Jan et al.](https://doi.org/10.1186/s13244-023-01412-x); licensed under CC BY 4.0)
 
-> {: .highlight }
+
 ### Explanation and elaboration of item#12 
 Technical details of a radiomics methodology can be very complex. Providing a flowchart along with manuscript can be an excellent tool to visually represent the sequence of stages used in the study by breaking it down into more digestible parts, making it easier for readers to follow and understand the research process. Each step in the flowchart would depict a stage in the methodology, starting from the preprocessing and segmentation of the images, through the feature extraction, analysis, and model building stages, and leading to the results. Example#1 summarizes the key steps of a handcrafted radiomics, while Example#2 provides the workflow of combined handcrafted and deep radiomics. With a very plain but highly informative flowchart, Example#3 efficiently summarizes the key methodological steps of the study.
 
