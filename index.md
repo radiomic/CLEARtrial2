@@ -8,7 +8,9 @@ nav_order: 1
 
 This online document includes good examples from the literature with explanation and elaboration related to [CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8).
 
-### Contributors: 
+## Maximizing the Benefits of CLEAR-E3?
+
+We strongly recommend referring to the CLEAR-E3 publication to maximize the benefit of this online CLEAR-E3 document.
 
 ### Publication:
 
