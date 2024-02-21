@@ -27,3 +27,6 @@ Item#1 stresses the significance of properly drafting a title that explains radi
 2. 	Sushentsev N, Rundo L, Blyuss O, et al (2022) Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance. Eur Radiol 32:680–689. [https://doi.org/10.1007/s00330-021-08151-x](https://doi.org/10.1007/s00330-021-08151-x)
 3. 	Gu W, Chen Y, Zhu H, et al (2023) Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study. eClinicalMedicine 65:. [https://doi.org/10.1016/j.eclinm.2023.102269](https://doi.org/10.1016/j.eclinm.2023.102269)
 4. 	Kocak B, Bulut E, Bayrak ON, et al (2023) NEgatiVE results in Radiomics research (NEVER): A meta-research study of publication bias in leading radiology journals. Eur J Radiol 163:110830. [https://doi.org/10.1016/j.ejrad.2023.110830](https://doi.org/10.1016/j.ejrad.2023.110830)
+
+[Home](https://radiomic.github.io/CLEAR-E3/){: .btn .btn-purple .mr-10 }
+[Next Item](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-blue }
