@@ -11,3 +11,5 @@ This online document includes good examples from the literature with explanation
 ### Contributors: 
 
 ### Publication:
+
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-blue .float: right }
