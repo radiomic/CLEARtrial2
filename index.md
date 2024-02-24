@@ -5,7 +5,7 @@ nav_order: 1
 
 ---
 
-![Logo1]([/CLEAR-E3/assets/images/logo.png](https://github.com/radiomic/CLEAR-E3/blob/main/assets/images/logo.png))
+![Logo1](https://github.com/radiomic/CLEAR-E3/blob/main/assets/images/logo.png)
 
 ## CLEAR-E3
 
