@@ -19,6 +19,6 @@ We strongly recommend referring to the CLEAR-E3 publication to maximize the bene
 
 Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
 
-##
+## 
 
 [Go to items](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-blue }
