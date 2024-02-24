@@ -25,4 +25,4 @@ Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radio
 
 
 
-[Go to items](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-blue }
+[Go to items](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-purple }
