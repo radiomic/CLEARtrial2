@@ -15,7 +15,9 @@ As a part of the publication [Explanation and Elaboration with Examples for CLEA
 
 We strongly recommend referring to the CLEAR-E3 publication to maximize the benefit of this online CLEAR-E3 document.
 
-### Publication: Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
+## Publication
+
+Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
 
 ##
 
