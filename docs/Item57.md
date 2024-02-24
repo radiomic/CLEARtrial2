@@ -1,11 +1,12 @@
 ---
-title: Item#12
+title: Item#57
 layout: home
-nav_order: 12
+nav_order: 57
 
 ---
 ## CLEAR item#12
-“Flowchart for technical pipeline. Provide a flowchart for summarizing the key methodological steps in the study. Due to the complex nature of the radiomic approaches, such flowcharts help readers better understand the methodology.” [1] (from [the article by Kocak et al.](https://doi.org/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
+
+“Sharing final model files. Share the final model files for internal or external testing. Describe how inputs should be prepared to use the model. Also, include the source code that was used for pre-processing the input data. Specify the reason in case the final model data are not available.” [1] (from [the article by Kocak et al.](https://doi.org/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 {: .important-title }
 
