@@ -12,7 +12,7 @@ nav_order: 57
 
 ### Reporting examples for item#57
 
-> **Example#1.** Example#1. “The model, its implementation instructions, all required files for data extraction and processing are available in the online study repository (https://github.com/rcuocolo/mri_act_cs2).” [2] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
+> **Example#1.** Example#1. “The model, its implementation instructions, all required files for data extraction and processing are available in the online study repository ([https://github.com/rcuocolo/mri_act_cs2](https://github.com/rcuocolo/mri_act_cs2)).” [2] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
 
 > **Example#2.** Example#2. “The exact description of the machine learning methods with the model and training parameters used can be found as code online (https://github.com/NikonPic/bonetumor-radiomics.” [3] (from [the article by von Schacky et al.](https://doi.org/10.1007/s00330-022-08764-w); licensed under CC BY 4.0)
 
