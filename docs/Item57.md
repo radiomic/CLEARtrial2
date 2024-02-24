@@ -12,9 +12,9 @@ nav_order: 57
 
 ### Reporting examples for item#57
 
-> **Example#1.** Example#1. “The model, its implementation instructions, all required files for data extraction and processing are available in the online study repository ([https://github.com/rcuocolo/mri_act_cs2](https://github.com/rcuocolo/mri_act_cs2)).” [2] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
+> **Example#1.** “The model, its implementation instructions, all required files for data extraction and processing are available in the online study repository ([https://github.com/rcuocolo/mri_act_cs2](https://github.com/rcuocolo/mri_act_cs2)).” [2] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
 
-> **Example#2.** Example#2. “The exact description of the machine learning methods with the model and training parameters used can be found as code online ([https://github.com/NikonPic/bonetumor-radiomics](ttps://github.com/NikonPic/bonetumor-radiomics)).” [3] (from [the article by von Schacky et al.](https://doi.org/10.1007/s00330-022-08764-w); licensed under CC BY 4.0)
+> **Example#2.** “The exact description of the machine learning methods with the model and training parameters used can be found as code online ([https://github.com/NikonPic/bonetumor-radiomics](ttps://github.com/NikonPic/bonetumor-radiomics)).” [3] (from [the article by von Schacky et al.](https://doi.org/10.1007/s00330-022-08764-w); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of item#57
 Item#57 focuses on the importance of sharing the final model and source code to increase the transparency of radiomics research. This is strictly related to the reproducibility concerns of current radiomics research. The limited availability of open-source code and data is one of the main causes of poor validation and clinical translation of radiomics research. Currently, there is a paucity of radiomics and artificial intelligence studies reporting providing the final model code, as reported by recent systematic reviews [4-6]. Most radiomics research is oriented to publishing new models without providing access to the code, rather than testing the performance of already developed data.
