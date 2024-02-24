@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+logo: "/assets/figs/logo.svg"
 ---
 
 ## Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
