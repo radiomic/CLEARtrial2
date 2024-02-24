@@ -17,8 +17,8 @@ Published as [Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an
 ## What to Expect from CLEAR-E3?
 CLEAR-E3 is not just another document—it's a curated collection of good examples sourced from the literature. Each example is accompanied by detailed explanations and elaborations, offering insights that go beyond the surface. It's your go-to guide for mastering the art of CLEAR compliance.
 
-## Maximize Your Benefits from CLEAR-E3!
-To make the most of this online resource, we strongly recommend referring to the CLEAR-E3 publication. By doing so, you unlock the full potential of CLEAR, ensuring your research meets the highest standards.
+## Maximize Your Benefits from CLEAR and CLEAR-E3!
+To make the most of this online resource, we strongly recommend referring to the [CLEAR-E3 publication](). By doing so, you unlock the full potential of CLEAR and CLEAR-E3, helping your research meet the highest standards.
 
 ## Publication Details
 Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
