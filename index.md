@@ -15,7 +15,7 @@ Published as [Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an
 CLEAR, which stands for CheckList for EvaluAtion of Radiomics research, is a meticulously crafted, step-by-step reporting guideline endorsed by the European Society of Radiology (ESR) and the European Society of Medical Imaging Informatics (EuSoMII). Developed by a modified Delphi method, it sets the standard for transparent and comprehensive reporting in radiomics research. The CLEAR statement can be accessed [here](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8).
 
 ## What to Expect from CLEAR-E3?
-CLEAR-E3 is not just another document—it's a curated collection of good examples sourced from the literature. Each example is accompanied by a detailed explanation and elaboration, offering insights that go beyond the surface. 
+CLEAR-E3 is not just another document—it's a curated collection of good examples sourced from the literature. Each example is accompanied by a brief explanation and elaboration, offering insights that go beyond the surface. 
 
 ## Maximize Your Benefits!
 To make the most of this online resource, we strongly recommend referring to the [CLEAR-E3 publication](). By doing so, you unlock the full potential of CLEAR-E3 and CLEAR, helping your research meet the highest standards.
