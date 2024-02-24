@@ -5,7 +5,7 @@ nav_order: 1
 
 ---
 
-![Logo1](/blob/main/assets/images/logo.png)
+![Logo1](/main/assets/images/logo.png)
 
 ## CLEAR-E3
 
