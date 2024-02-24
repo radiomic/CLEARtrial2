@@ -30,5 +30,5 @@ Item#57 focuses on the importance of sharing the final model and source code to 
 6. 	Kocak B, Yardimci AH, Yuzkan S, et al (2023) Transparency in Artificial Intelligence Research: a Systematic Review of Availability Items Related to Open Science in Radiology and Nuclear Medicine. Acad Radiol 30:2254–2266. [https://doi.org/10.1016/j.acra.2022.11.030](https://doi.org/10.1016/j.acra.2022.11.030)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-blue .mr-5  }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item57.html){: .btn .btn-blue  }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Item57.html){: .btn .btn-purple   }
