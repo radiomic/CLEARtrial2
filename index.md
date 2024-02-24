@@ -13,7 +13,7 @@ As a part of the publication [Explanation and Elaboration with Examples for CLEA
 
 ## To Maximize the Potential Benefits of CLEAR-E3
 
-We strongly recommend referring to the CLEAR-E3 publication to maximize the benefit of this online CLEAR-E3 document.
+We strongly recommend referring to the CLEAR-E3 publication to maximize the benefit of this online document.
 
 ## Publication
 
