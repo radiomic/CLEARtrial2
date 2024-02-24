@@ -17,7 +17,7 @@ CLEAR, which stands for CheckList for EvaluAtion of Radiomics research, is a met
 ## What to Expect from CLEAR-E3?
 CLEAR-E3 is not just another document—it's a curated collection of good examples sourced from the literature. Each example is accompanied by a brief explanation and elaboration, offering insights that go beyond the surface. 
 
-## Maximize Your Benefits!
+## How to Maximize Your Benefits?
 To make the most of this online resource, we strongly recommend referring to the [CLEAR-E3 publication](). By doing so, you unlock the full potential of CLEAR-E3 and CLEAR, helping your research meet the highest standards.
 
 ## Publication Details
