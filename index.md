@@ -5,7 +5,7 @@ nav_order: 1
 
 ---
 
-![Logo1](/assets/images/logo.png)
+![Logo1](/CLEAR-E3/assets/images/logo.png)
 
 ## Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
 
