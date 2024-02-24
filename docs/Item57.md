@@ -21,7 +21,7 @@ Item#57 focuses on the importance of sharing the final model and source code to 
 
 ### References
 
-{: .fs-1 }
+{: .fs-2 }
 1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
 2. 	Gitto S, Cuocolo R, Langevelde K van, et al (2022) MRI radiomics-based machine learning classification of atypical cartilaginous tumour and grade II chondrosarcoma of long bones. eBioMedicine 75:. [https://doi.org/10.1016/j.ebiom.2021.103757](https://doi.org/10.1016/j.ebiom.2021.103757)
 3. 	von Schacky CE, Wilhelm NJ, Schäfer VS, et al (2022) Development and evaluation of machine learning models based on X-ray radiomics for the classification and differentiation of malignant and benign bone tumors. Eur Radiol 32:6247–6257. [https://doi.org/10.1007/s00330-022-08764-w](https://doi.org/10.1007/s00330-022-08764-w)
