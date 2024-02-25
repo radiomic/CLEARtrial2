@@ -21,7 +21,9 @@ CLEAR-E3 is not just another document—it's a curated collection of good exampl
 To make the most of this online resource, we strongly recommend referring to the [CLEAR-E3 publication](). By doing so, you may unlock the full potential of CLEAR-E3 and CLEAR, helping your research meet the highest standards.
 
 ## Publication Details
-Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative
+If you publish any work that uses CLEAR-E3, please cite the following publication:
+
+Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative.
 
 
 
