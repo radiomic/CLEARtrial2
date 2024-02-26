@@ -20,7 +20,7 @@ CLEAR-E3 is not just another document—it's a curated collection of good exampl
 ## How to Maximize Your Benefits?
 To make the most of this online resource, we strongly recommend referring to [CLEAR-E3 publication](), particularly to the section "Recommendations for use of CLEAR-E3 along with CLEAR". By doing so, you may unlock the full potential of CLEAR-E3 and CLEAR, helping your research meet the highest standards.
 
-## Publication Details
+## How to Cite CLEAR-E3?
 We have invested a lot of time and effort in creating CLEAR-E3. If you publish any work that uses CLEAR-E3 or benefits from it, please cite the following publication: 
 
 Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative.
