@@ -10,7 +10,6 @@ nav_order: 7
 “Adherence to guidelines or checklists (e.g., CLEAR checklist). Indicate that the CLEAR checklist was used for reporting and submit the checklist as supplemental data. Do the same with other checklists or guidelines if used in addition to the CLEAR checklist.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 
-
 ### Reporting examples for CLEAR item#7
 
 > **Example#1.** “It was designed in accordance with the reporting guidelines proposed by the Image Biomarker Standardization Initiative (IBSI), and our methodology was self-assessed via the modified Radiomics Study Quality (mRQS) score and CheckList for EvaluAtion of Radiomics research (CLEAR). […] The modified radiomics quality score (mRQS) for this study was 16/36 (ESM Table 7) and was much higher than the 7.5/36 that was recently observed in recently published work. In addition, we satisfied 47 of the 58 items in the Checklist for Evaluation of Radiomics Research (CLEAR) checklist (ESM Table 8), where the unaccomplished items included two non-applicable and nine unsatisfied items.” [2] (from [the article by Wang et al.](https://doi.org/10.1245/s10434-023-14805-5); licensed under CC BY 4.0)
