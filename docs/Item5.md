@@ -36,8 +36,8 @@ A valid scientific purpose must be identified before designing well-founded clin
 4. 	Koçak B, Cuocolo R, dos Santos DP, et al (2023) Must-have Qualities of Clinical Research on Artificial Intelligence and Machine Learning. Balk Med J 40:3–12. [https://doi.org/10.4274/balkanmedj.galenos.2022.2022-11-51](https://doi.org/10.4274/balkanmedj.galenos.2022.2022-11-51)
 5. 	Stanzione A (2022) Feasible does not mean useful: Do we always need radiomics? Eur J Radiol 156:110545. [https://doi.org/10.1016/j.ejrad.2022.110545](https://doi.org/10.1016/j.ejrad.2022.110545)
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Item6.html){: .btn .btn-purple   }
 
 
 
