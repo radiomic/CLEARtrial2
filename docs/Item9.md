@@ -4,7 +4,7 @@ layout: home
 nav_order: 9
 ---
 
-## CLEAR item#8
+## CLEAR item#9
 
 
 “Sample size calculation. Describe how the sample size or power was determined before or after the study (e.g., sample size/power calculation, based on availability).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
