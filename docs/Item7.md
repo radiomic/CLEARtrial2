@@ -9,7 +9,7 @@ nav_order: 7
 
 “Adherence to guidelines or checklists (e.g., CLEAR checklist). Indicate that the CLEAR checklist was used for reporting and submit the checklist as supplemental data. Do the same with other checklists or guidelines if used in addition to the CLEAR checklist.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
+
 
 ### Reporting examples for CLEAR item#7
 
