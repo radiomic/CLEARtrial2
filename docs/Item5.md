@@ -6,11 +6,9 @@ nav_order: 5
 
 ## CLEAR item#5
 
-{: .note }
 
 “Rationale for using a radiomic approach. Describe why a radiomics approach is considered. Performance and problematic aspects of currently used methods need to be described. Mention what the radiomics approach would offer to solve these problems. Clearly state how radiomics could affect clinical practice considering the study question.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
 
 ### Reporting examples for CLEAR item#5
 
