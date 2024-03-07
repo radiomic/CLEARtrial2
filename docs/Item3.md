@@ -6,11 +6,9 @@ nav_order: 3
 
 ## CLEAR item#3
 
-{: .note }
 
 “Relevant keywords for radiomics. List the primary keywords that indicate (e.g., radiomics, texture analysis) and characterize a radiomic study (e.g., machine learning, deep learning, computed tomography, magnetic resonance imaging, reproducibility), unless the journal requires exclusive use of certain terms (e.g., MeSH terms, which do not yet include radiomics-specific terms).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
 
 ### Reporting examples for CLEAR item#3
 
