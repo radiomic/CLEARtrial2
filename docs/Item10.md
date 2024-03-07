@@ -34,8 +34,8 @@ Providing study´s nature such as retrospective (see Example#1), prospective (se
 5. 	Mann CJ (2003) Observational research methods. Research design II: cohort, cross sectional, and case-control studies. Emerg Med J EMJ 20:54–60. [https://doi.org/10.1136/emj.20.1.54](https://doi.org/10.1136/emj.20.1.54)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item8.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item10.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Item9.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Item11.html){: .btn .btn-purple   }
 
 
 
