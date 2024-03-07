@@ -32,6 +32,6 @@ The abstract is one of the hardest and most important parts of the paper. This s
 4.  Cals JWL, Kotz D (2013) Effective writing and publishing scientific papers, part II: title and abstract. J Clin Epidemiol 66:585. [https://doi.org/10.1016/j.jclinepi.2013.01.005](https://doi.org/10.1016/j.jclinepi.2013.01.005)
 5.  Beller EM, Glasziou PP, Altman DG, et al (2013) PRISMA for Abstracts: Reporting Systematic Reviews in Journal and Conference Abstracts. PLoS Med 10:e1001419. [https://doi.org/10.1371/journal.pmed.1001419](https://doi.org/10.1371/journal.pmed.1001419)
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item3.html){: .btn .btn-purple   }
 
