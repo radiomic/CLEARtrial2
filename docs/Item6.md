@@ -6,11 +6,9 @@ nav_order: 6
 
 ## CLEAR item#6
 
-{: .note }
 
 “Study objective(s). Describe the purpose of the study while focusing on the scientific problem. Mention the expected contributions to the current literature.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
 
 ### Reporting examples for CLEAR item#6
 
