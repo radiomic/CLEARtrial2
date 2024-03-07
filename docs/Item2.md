@@ -6,11 +6,9 @@ nav_order: 2
 
 ## CLEAR item#2
 
-{: .note }
 
 “Structured summary with relevant information. Provide a structured summary of the purpose, methods, results, and conclusions, presenting only the most important aspects directly related to the purpose of the study. The abstract should be understandable on its own, without reading the main text. Considering the submission guidelines of the journals, it is recommended to specify the following items: the baseline characteristics (e.g., number of patients, scans, images, classes), data source (e.g., public, institutional), study nature (e.g., prospective, retrospective), segmentation technique (e.g., automated, semi-automated, or manual), feature extraction technique (e.g., hand-crafted, engineered, deep), dimensionality reduction techniques (e.g., feature selection, reproducibility analysis, multi-collinearity), modeling details (e.g., algorithms/models), validation technique (e.g., cross-validation), unseen testing (internal hold-out, external testing), model performance metrics (e.g., the area under the curve) with uncertainty measures (e.g., confidence intervals), number of the final set of features, traditional statistical methods with p-values, and open science status (e.g., public availability of data, code, and/or model).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
 
 ### Reporting examples for CLEAR item#2
 
