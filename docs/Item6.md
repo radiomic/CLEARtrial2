@@ -8,19 +8,23 @@ nav_order: 6
 
 {: .note }
 
-“Relevant keywords for radiomics. List the primary keywords that indicate (e.g., radiomics, texture analysis) and characterize a radiomic study (e.g., machine learning, deep learning, computed tomography, magnetic resonance imaging, reproducibility), unless the journal requires exclusive use of certain terms (e.g., MeSH terms, which do not yet include radiomics-specific terms).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
+“Study objective(s). Describe the purpose of the study while focusing on the scientific problem. Mention the expected contributions to the current literature.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 {: .important-title }
 
 ### Reporting examples for CLEAR item#6
 
-> **Example#1.** “Renal cell carcinoma, Computed tomography, Radiomics, Deep learning” [2] (from [the article by Wang et al.](https://doi.org/10.1186/s13244-023-01557-9); licensed under CC BY 4.0)
+> **Example#1.** “[…] However, the association of GBM recurrence and certain radiomic features has rarely been investigated. Moreover, it has been shown that preoperative MRI parameters contribute to prediction of the prognosis of patients with GBM.
 
-> **Example#2.** “Magnetic resonance imaging, Radiomics, Knee osteoarthritis, Bone, Machine learning” [3] (from [the article by Hirvasniemi et al.](https://doi.org/10.1007/s00330-021-07951-5); licensed under CC BY 4.0)
+Therefore, this study aimed to identify heterogeneity within the peritumoral edema region via radiomics, which may be beneficial to the optimization of surgical resection.” [17] (from the article by Long et al.; licensed under CC BY 4.0)
+
+> **Example#2.** “However, no study has assessed bone quality based on the high-throughput radiomic features extracted from routing CT scans. In this study, radiomic features were extracted from the 3D segmentation of the entire vertebral body, comprising both the cancellous and cortical bones to determine the efficacy of a radiomics model based on routine preoperative lumbar spine CT scans in screening for osteoporosis.” [18] (from the article by Jiang et al.; licensed under CC BY 4.0)
+
+> **Example#3.** “In this study, we chose well-established ML classifiers from previous literature in the field and compared their performance to predict outcome variables of HGG: OS, IDH mutation, O-6-methylguanine-DNA-methyltransferase (MGMT) promoter methylation, epidermal growth factor receptor vIII (EGFR) amplification, and Ki-67 expression, based on features extracted from conventional and advanced MRI. Our objectives were (1) to assess the best algorithm for each prediction task, providing a benchmark for future clinical applications. Particularly, we wanted to compare classic and ensemble learners among ML classifiers to provide a comprehensive view on model performance; (2) to evaluate highly predictive radiomic features extracted from different tumor regions, highlighting possible correlations between MR parameters and tumor molecular/genetic characteristics.” [19] (from the article by Pasquini et al.; licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#6
 
-To make the published work searchable, the keywords must highlight its most important aspects. As Example#1 and Example#2 show, radiomics studies must clearly specify imaging modalities (MRI, CT, etc.), target conditions or pathology and anatomy, and analysis methods (machine learning, deep learning). Keywords that clearly state these characteristics help investigators find studies for their own work, systematic reviews, and meta-analyses of radiomics research.
+Item#6 highlights how a clear and thorough summary of the goals and importance of the research should be included, along with an explanation of how your study will add to the body of knowledge already in existence. This could entail presenting fresh perspectives, bolstering, or refuting accepted theories, offering useful applications, or recommending lines of inquiry for further study. All of the three examples above clearly state the objective(s) of the studies and some notes on the previous literature and related expectations.
 
 ### References
 
