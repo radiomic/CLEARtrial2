@@ -33,6 +33,7 @@ This comprehensive step integrates the existing literature, identifies knowledge
 1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
 2. 	Xu Y, Li Z, Yang Y, et al (2023) A CT-based radiomics approach to predict intra-tumoral tertiary lymphoid structures and recurrence of intrahepatic cholangiocarcinoma. Insights Imaging 14:173. [https://doi.org/10.1186/s13244-023-01527-1](https://doi.org/10.1186/s13244-023-01527-1)
 3. 	Szabo L, Salih A, Pujadas ER, et al (2023) Radiomics of pericardial fat: a new frontier in heart failure discrimination and prediction. Eur Radiol. [https://doi.org/10.1007/s00330-023-10311-0](https://doi.org/10.1007/s00330-023-10311-0)
+   
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item3.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item5.html){: .btn .btn-purple   }
 
