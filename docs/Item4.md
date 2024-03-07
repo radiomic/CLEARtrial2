@@ -6,11 +6,9 @@ nav_order: 4
 
 ## CLEAR item#4
 
-{: .note }
 
 “Scientific or clinical background. Define the scientific or clinical problem with a summary of the related literature and knowledge gaps, including a short review of the current state of knowledge. Describe why the scientific question is technically or clinically important.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
-{: .important-title }
 
 ### Reporting examples for CLEAR item#4
 
