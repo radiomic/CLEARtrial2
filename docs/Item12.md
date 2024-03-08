@@ -13,19 +13,19 @@ nav_order: 12
 
 > **Example#1.** See Figure 1.
 >
-> ![Fig1](/CLEAR-E3/figs/Figure 1.png)
+> ![Fig1](/CLEAR-E3/figs/Item12_Fig1.png)
 >
 > **Figure 1.** “Flowchart showing the process of radiomics analysis. LASSO least absolute shrinkage and selection operator; ROC receiver operating characteristic.” [2] (from [the article by Lee et al.](https://doi.org/10.1038/s41598-022-12229-x); licensed under CC BY 4.0)
 
 > **Example#2.** See Figure 2.
 >
-> ![Fig2](/CLEAR-E3/figs/Figure 2.png)
+> ![Fig2](/CLEAR-E3/figs/Item12_Fig2.png)
 >
 > **Figure 2.** “Flowchart presented the step-by-step procedures in machine learning model construction.” [3] (from [the article by He et al.](https://doi.org/10.1186/s13244-022-01349-7); licensed under CC BY 4.0)
 
 > **Example#3.** See Figure 3.
 >
-> ![Fig3](/CLEAR-E3/figs/Figure 3.png)                                          
+> ![Fig3](/CLEAR-E3/figs/Item12_Fig3.png)                                          
 >
 > **Figure 3.** “Workflow of study design.” [4] (from [the article by Jan et al.](https://doi.org/10.1186/s13244-023-01412-x); licensed under CC BY 4.0)
 
