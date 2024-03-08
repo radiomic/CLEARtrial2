@@ -16,7 +16,7 @@ nav_order: 13
 
 > **Example#2.** See Figure 1.
 > ![Fig1](/CLEAR-E3/figs/Item13_Fig1.png)
-> Figure 1. “Flowchart of the analysis cohort.” [3] (from the article by Lin et al.; licensed under CC BY 4.0)
+> **Figure 1.** “Flowchart of the analysis cohort.” [3] (from the article by Lin et al.; licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#13
 
