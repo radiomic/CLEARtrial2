@@ -32,9 +32,9 @@ Item#9 highlights the accurate description of the sample size and how the optima
 2. 	Feng Z, Li H, Liu Q, et al (2023) CT Radiomics to Predict Macrotrabecular-Massive Subtype and Immune Status in Hepatocellular Carcinoma. Radiology 307:e221291. [https://doi.org/10.1148/radiol.221291]([https://doi.org/10.1148/radiol.221291)
 3. 	An C, Park YW, Ahn SS, et al (2021) Radiomics machine learning study with a small sample size: Single random training-test set split may lead to unreliable results. PLOS ONE 16:e0256152. [https://doi.org/10.1371/journal.pone.0256152](https://doi.org/10.1371/journal.pone.0256152)
 4. 	Zysman M, Asselineau J, Saut O, et al (2023) Development and external validation of a prediction model for the transition from mild to moderate or severe form of COVID-19. Eur Radiol 33:9262–9274. [https://doi.org/10.1007/s00330-023-09759-x](https://doi.org/10.1007/s00330-023-09759-x)
-5. 	Moskowitz CS, Welch ML, Jacobs MA, et al (2022) Radiomic Analysis: Study Design, Statistical Analysis, and Other Bias                     Mitigation Strategies. Radiology 304:265–273. https://doi.org/10.1148/radiol.211597
-6. 	Xu L, Yang P, Liang W, et al (2019) A radiomics approach based on support vector machine using MR images for preoperative lymph node status evaluation in intrahepatic cholangiocarcinoma. Theranostics 9:5374–5385. https://doi.org/10.7150/thno.34149
-7. 	Shur JD, Doran SJ, Kumar S, et al (2021) Radiomics in Oncology: A Practical Guide. Radiogr Rev Publ Radiol Soc N Am Inc 41:1717–1732. https://doi.org/10.1148/rg.2021210037
+5. 	Moskowitz CS, Welch ML, Jacobs MA, et al (2022) Radiomic Analysis: Study Design, Statistical Analysis, and Other Bias                     Mitigation Strategies. Radiology 304:265–273. [https://doi.org/10.1148/radiol.211597](https://doi.org/10.1148/radiol.211597)
+6. 	Xu L, Yang P, Liang W, et al (2019) A radiomics approach based on support vector machine using MR images for preoperative lymph node status evaluation in intrahepatic cholangiocarcinoma. Theranostics 9:5374–5385. [https://doi.org/10.7150/thno.34149](https://doi.org/10.7150/thno.34149)
+7. 	Shur JD, Doran SJ, Kumar S, et al (2021) Radiomics in Oncology: A Practical Guide. Radiogr Rev Publ Radiol Soc N Am Inc 41:1717–1732. [https://doi.org/10.1148/rg.2021210037](https://doi.org/10.1148/rg.2021210037)
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item8.html){: .btn .btn-purple .mr-5 }
