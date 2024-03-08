@@ -1,8 +1,7 @@
 ---
 title: Item#1
 layout: home
-parent: Item1 to Item10
-nav_order: 1
+nav_order: 2
 ---
 
 ## CLEAR item#1
