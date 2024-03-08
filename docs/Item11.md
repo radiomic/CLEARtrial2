@@ -32,8 +32,8 @@ Ensuring the integrity and reproducibility of a study begins with the precise de
 
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item9.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item11.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Item10.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-purple   }
 
 
 
