@@ -15,7 +15,9 @@ nav_order: 13
 > **Example#1.** Example#1. “In collaboration with Radboud University investigators, we retrospectively analyzed the testing cohort of the publicly available imaging dataset from the PROSTATEx2 challenge, which included clinical MRI examinations and nonpublicly revealed histological grading results.” [2] (from the article by Michallek et al.; licensed under CC BY 4.0)
 
 > **Example#2.** See Figure 1.
+> 
 > ![Fig1](/CLEAR-E3/figs/Item13_Fig1.png)
+>
 > **Figure 1.** “Flowchart of the analysis cohort.” [3] (from the article by Lin et al.; licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#13
