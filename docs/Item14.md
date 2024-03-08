@@ -12,13 +12,13 @@ nav_order: 14
 
 ### Reporting examples for CLEAR item#14
 
-> **Example#1.** "The study population was composed of locoregionally advanced HNSCC patients (TNM7 stage III-IVA/B (M0)) receiving curative treatment between 2008 and 2017, collected within the framework of the BD2Decide project (http://www.bd2decide.eu/, accessed on 13 May 2021, H2020-PHC30-689715, IRB P-number P0125, ClinicalTrials.gov Identifier: NCT02832102) [...] The collected patient population was originally staged at diagnosis of the TNM7 staging system. During the BD2Decide project, these patients were re-staged to I-IVA/B (M0) using the newly developed TNM8 staging system." [2] (from the article by Keek et al.; licensed under CC BY 4.0)
+> **Example#1.** "The study population was composed of locoregionally advanced HNSCC patients (TNM7 stage III-IVA/B (M0)) receiving curative treatment between 2008 and 2017, collected within the framework of the BD2Decide project (http://www.bd2decide.eu/, accessed on 13 May 2021, H2020-PHC30-689715, IRB P-number P0125, ClinicalTrials.gov Identifier: NCT02832102) [...] The collected patient population was originally staged at diagnosis of the TNM7 staging system. During the BD2Decide project, these patients were re-staged to I-IVA/B (M0) using the newly developed TNM8 staging system." [2] (from [the article by Keek et al.](https://doi.org/10.3390/cancers13133271); licensed under CC BY 4.0)
 
-> **Example#2.** “The image datasets were gathered from The Cancer Imaging Archive (TCIA) open-access dataset, and the respective geneexpression proﬁles were acquired through The Cancer Genome Atlas (TCGA). Motivated by prior studies that indicated that TIME is correlated with the prediction of breast cancer, we created and veriﬁed the association of imaging phenotypes with TIME by using three datasets. There was zero patient overlap across the three datasets, and descriptive and clinical statistics of all three cohorts are shown below in Table 1.” [3] (from the article by Han et al.; licensed under CC BY 4.0)
+> **Example#2.** “The image datasets were gathered from The Cancer Imaging Archive (TCIA) open-access dataset, and the respective geneexpression proﬁles were acquired through The Cancer Genome Atlas (TCGA). Motivated by prior studies that indicated that TIME is correlated with the prediction of breast cancer, we created and veriﬁed the association of imaging phenotypes with TIME by using three datasets. There was zero patient overlap across the three datasets, and descriptive and clinical statistics of all three cohorts are shown below in Table 1.” [3] (from [the article by Han et al.](https://doi.org/10.3389/fimmu.2021.773581); licensed under CC BY 4.0)
 
-> **Example#3.** “Patients were retrospectively selected from a population scale cohort comprising 207 adult patients, extending a previous series.” [4] (from the article by Nenning et al.; licensed under CC BY-NC 4.0)
+> **Example#3.** “Patients were retrospectively selected from a population scale cohort comprising 207 adult patients, extending a previous series.” [4] (from [the article by Nenning et al.](https://doi.org/10.1093/noajnl/vdad136); licensed under CC BY-NC 4.0)
 
-> **Example#4.** “Study subjects or cohorts overlap: Some study subjects have been previously reported in: Sepulcri, M.; Fusella, M.; Cuppari, L.; Zorz, A.; Paiusco, M.; Evangelista, L. Value of 18F-fluorocholine PET/CT in predicting response to radical radiotherapy in patients with localized prostate cancer. Clin. Transl. Radiat. Oncol. 2021, 30, 71–77, doi:10.1016/j.ctro.2021.07.002” [5] (from the article by Marturano et al.; licensed under CC BY 4.0)
+> **Example#4.** “Study subjects or cohorts overlap: Some study subjects have been previously reported in: Sepulcri, M.; Fusella, M.; Cuppari, L.; Zorz, A.; Paiusco, M.; Evangelista, L. Value of 18F-fluorocholine PET/CT in predicting response to radical radiotherapy in patients with localized prostate cancer. Clin. Transl. Radiat. Oncol. 2021, 30, 71–77, doi:10.1016/j.ctro.2021.07.002” [5] (from [the article by Marturano et al.](https://doi.org/10.1007/s00330-023-09642-9); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#14
 
@@ -33,7 +33,7 @@ Declaring the presence or not of datasets overlap in radiomics publication is im
 
 2 45.         Keek SA, Wesseling FWR, Woodruff HC, et al (2021) A Prospectively Validated Prognostic Model for Patients with Locally Advanced Squamous Cell Carcinoma of the Head and Neck Based on Radiomics of Computed Tomography Images. Cancers 13:3271. [https://doi.org/10.3390/cancers13133271](https://doi.org/10.3390/cancers13133271)
 
-3 46.         Han X, Cao W, Wu L, Liang C (2022) Radiomics Assessment of the Tumor Immune Microenvironment to Predict Outcomes in Breast Cancer. Front Immunol 12:
+3 46.         Han X, Cao W, Wu L, Liang C (2022) Radiomics Assessment of the Tumor Immune Microenvironment to Predict Outcomes in Breast Cancer. Front Immunol 12: [https://doi.org/10.3389/fimmu.2021.773581](https://doi.org/10.3389/fimmu.2021.773581)
 
 4 47.         Nenning K-H, Gesperger J, Furtner J, et al (2023) Radiomic features define risk and are linked to DNA methylation attributes in primary CNS lymphoma. Neuro-Oncol Adv 5:vdad136. [https://doi.org/10.1093/noajnl/vdad136](https://doi.org/10.1093/noajnl/vdad136)
 
