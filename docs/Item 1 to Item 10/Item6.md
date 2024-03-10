@@ -1,6 +1,7 @@
 ---
 title: Item#6
 layout: home
+parent: Item 1 to Item 10
 nav_order: 6
 ---
 
