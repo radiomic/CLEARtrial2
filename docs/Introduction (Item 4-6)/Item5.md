@@ -1,7 +1,7 @@
 ---
 title: Item#5
 layout: home
-parent: Item 1 to Item 10
+parent: Introduction (Item 4-6)
 nav_order: 5
 ---
 

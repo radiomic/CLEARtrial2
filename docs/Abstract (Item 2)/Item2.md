@@ -1,7 +1,7 @@
 ---
 title: Item#2
 layout: home
-parent: Item 1 to Item 10
+parent: Abstract (Item 2)
 nav_order: 2
 ---
 

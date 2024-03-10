@@ -1,7 +1,7 @@
 ---
 title: Item#12
 layout: home
-parent: Item 11 to Item 20
+parent: Study design (7-12)
 nav_order: 12
 
 ---
