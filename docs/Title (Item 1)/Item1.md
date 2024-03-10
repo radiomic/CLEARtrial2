@@ -1,7 +1,7 @@
 ---
 title: Item#1
 layout: home
-parent: Item 1 to Item 10
+parent: Title (Item 1)
 nav_order: 2
 ---
 
