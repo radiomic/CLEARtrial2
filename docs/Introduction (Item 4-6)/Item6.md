@@ -34,8 +34,8 @@ Item#6 highlights how a clear and thorough summary of the goals and importance o
 3. 	Jiang Y-W, Xu X-J, Wang R, Chen C-M (2022) Radiomics analysis based on lumbar spine CT to detect osteoporosis. Eur Radiol 32:8019–8026. [https://doi.org/10.1007/s00330-022-08805-4](https://doi.org/10.1007/s00330-022-08805-4)
 4. 	Pasquini L, Napolitano A, Lucignani M, et al (2021) AI and High-Grade Glioma for Diagnosis and Outcome Prediction: Do All Machine Learning Models Perform Equally Well? Front Oncol. 23;11:601425. doi: [https://doi.org/10.3389/fonc.2021.601425](https://doi.org/10.3389/fonc.2021.601425)
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item5.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item7.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Introduction%20(Item%204-6)/Item5.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item7.html){: .btn .btn-purple   }
 
 
 

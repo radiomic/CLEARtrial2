@@ -33,8 +33,8 @@ The significance of reporting using checklists and adhering to guidelines is emp
 5. 	Kocak B, Keles A, Akinci D’Antonoli T (2023) Self-reporting with checklists in artificial intelligence research on medical imaging: a systematic review based on citations of CLAIM. Eur Radiol. [https://doi.org/10.1007/s00330-023-10243-9](https://doi.org/10.1007/s00330-023-10243-9)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item6.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item8.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Introduction%20(Item%204-6)/Item6.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item8.html){: .btn .btn-purple   }
 
 
 

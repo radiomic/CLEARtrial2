@@ -33,8 +33,8 @@ This comprehensive step integrates the existing literature, identifies knowledge
 2. 	Xu Y, Li Z, Yang Y, et al (2023) A CT-based radiomics approach to predict intra-tumoral tertiary lymphoid structures and recurrence of intrahepatic cholangiocarcinoma. Insights Imaging 14:173. [https://doi.org/10.1186/s13244-023-01527-1](https://doi.org/10.1186/s13244-023-01527-1)
 3. 	Szabo L, Salih A, Pujadas ER, et al (2023) Radiomics of pericardial fat: a new frontier in heart failure discrimination and prediction. Eur Radiol. [https://doi.org/10.1007/s00330-023-10311-0](https://doi.org/10.1007/s00330-023-10311-0)
    
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item3.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item5.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Keywords%20(Item%203)/Item3.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Introduction%20(Item%204-6)/Item5.html){: .btn .btn-purple   }
 
 
 
