@@ -40,7 +40,7 @@ Item#9 highlights the accurate description of the sample size and how the optima
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item8.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item10.htmll){: .btn .btn-purple   }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item10.html){: .btn .btn-purple   }
 
 
 
