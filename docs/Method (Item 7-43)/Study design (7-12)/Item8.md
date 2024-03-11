@@ -36,8 +36,8 @@ Item#8 addresses the ethical aspects of a study, focusing on ethical approval, i
 4. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. [https://doi.org/10.1186/s13244-022-01349-7](https://doi.org/10.1186/s13244-022-01349-7)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item7.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item9.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item7.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item9.html){: .btn .btn-purple   }
 
 
 

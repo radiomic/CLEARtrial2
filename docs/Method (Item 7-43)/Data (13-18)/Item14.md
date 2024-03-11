@@ -42,8 +42,8 @@ Declaring the presence or not of datasets overlap in radiomics publication is im
 9. 	Park JE, Park SY, Kim HJ, Kim HS (2019) Reproducibility and Generalizability in Radiomics Modeling: Possible Strategies in Radiologic and Statistical Perspectives. Korean J Radiol 20:1124–1137. [https://doi.org/10.3348/kjr.2018.0070](https://doi.org/10.3348/kjr.2018.0070)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item13.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item15.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item13.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item15.html){: .btn .btn-purple   }
 
 
 

@@ -39,8 +39,8 @@ Item#9 highlights the accurate description of the sample size and how the optima
 7. 	Shur JD, Doran SJ, Kumar S, et al (2021) Radiomics in Oncology: A Practical Guide. Radiogr Rev Publ Radiol Soc N Am Inc 41:1717–1732. [https://doi.org/10.1148/rg.2021210037](https://doi.org/10.1148/rg.2021210037)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item8.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item10.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item8.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item10.htmll){: .btn .btn-purple   }
 
 
 

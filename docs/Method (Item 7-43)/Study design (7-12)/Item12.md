@@ -44,5 +44,5 @@ Technical details of a radiomics methodology can be very complex. Providing a fl
 3. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. [https://doi.org/10.1186/s13244-022-01349-7](https://doi.org/10.1186/s13244-022-01349-7)
 4. 	Jan Y-T, Tsai P-S, Huang W-H, et al (2023) Machine learning combined with radiomics and deep learning features extracted from CT images: a novel AI model to distinguish benign from malignant ovarian tumors. Insights Imaging 14:68. [https://doi.org/10.1186/s13244-023-01412-x](https://doi.org/10.1186/s13244-023-01412-x)
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item11.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item13.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item11.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item13.html){: .btn .btn-purple   }

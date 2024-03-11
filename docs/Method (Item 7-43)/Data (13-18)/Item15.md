@@ -41,8 +41,8 @@ The generalizability of a radiomics model, indicating its ability to maintain pe
 5. 	Mora NGN, Akkurt BH, Kasap D, et al (2023) Comparison of MRI Sequences to Predict ATRX Status Using Radiomics-Based Machine Learning. Diagnostics 13:2216. [https://doi.org/10.3390/diagnostics13132216](https://doi.org/10.3390/diagnostics13132216)
 6. 	Futoma J, Simons M, Panch T, et al (2020) The myth of generalisability in clinical research and machine learning in health care. Lancet Digit Health 2:e489–e492. [https://doi.org/10.1016/S2589-7500(20)30186-2](https://doi.org/10.1016/S2589-7500(20)30186-2)
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item14.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item14.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item16.html){: .btn .btn-purple   }
 
 
 

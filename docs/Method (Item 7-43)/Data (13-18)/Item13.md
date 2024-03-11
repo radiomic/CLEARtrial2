@@ -36,8 +36,8 @@ In item#13, the main point is on elucidating the data source, distinguishing bet
 5. 	van Timmeren JE, Cester D, Tanadini-Lang S, et al (2020) Radiomics in medical imaging—“how-to” guide and critical reflection. Insights Imaging 11:91. [https://doi.org/10.1186/s13244-020-00887-2](https://doi.org/10.1186/s13244-020-00887-2)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item12.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item14.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item12.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item14.html){: .btn .btn-purple   }
 
 
 
