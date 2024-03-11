@@ -19,15 +19,20 @@
 
 ### Explanation and elaboration of CLEAR item#25
 
-To make the published work searchable, the keywords must highlight its most important aspects. As Example#1 and Example#2 show, radiomics studies must clearly specify imaging modalities (MRI, CT, etc.), target conditions or pathology and anatomy, and analysis methods (machine learning, deep learning). Keywords that clearly state these characteristics help investigators find studies for their own work, systematic reviews, and meta-analyses of radiomics research.
+Item#25 explores the feature extraction methodology, a pivotal step involving the identification of previously unseen image patterns through the utilization of agnostic or non-semantic features [5]. The authors are encouraged to clearly specify the software programs, versions, and exact configuration parameters for radiomic feature extraction to guarantee methodological transparency, quality control and effective troubleshooting [6]. Several platforms are available, some of them are IBSI compliant. Among the available platforms for the features extraction PyRadiomics, LIFEx, and CERR are IBSI-compliant, whereas, for instance, IBEX is not [7]. Furthermore, the authors should furnish information on general feature types, providing formula and code, to enhance reproducibility and facilitate a more informed interpretation of the study's results. Additionally, when incorporating deep features, authors are advised to present the architectural details of their extraction process, preferable with an illustration such as in Example#3 or textually. These considerations collectively contribute to the credibility and reliability of radiomics research.
 
 ### References
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wang S, Zhu C, Jin Y, et al (2023) A multi-model based on radiogenomics and deep learning techniques associated with histological grade and survival in clear cell renal cell carcinoma. Insights Imaging 14:207. [https://doi.org/10.1186/s13244-023-01557-9](https://doi.org/10.1186/s13244-023-01557-9)
-3. 	Hirvasniemi J, Klein S, Bierma-Zeinstra S, et al (2021) A machine learning approach to distinguish between knees without and with osteoarthritis using MRI-based radiomic features from tibial bone. Eur Radiol 31:8513–8521. [https://doi.org/10.1007/s00330-021-07951-5](https://doi.org/10.1007/s00330-021-07951-5)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Bartholomeus GA, van Amsterdam WAC, Harder AM den, et al (2023) Robustness of pulmonary nodule radiomic features on computed tomography as a function of varying radiation dose levels-a multi-dose in vivo patient study. Eur Radiol 33:7044–7055. https://doi.org/10.1007/s00330-023-09643-8
+3. 	Feliciani G, Serra F, Menghi E, et al (2023) Radiomics in the characterization of lipid-poor adrenal adenomas at unenhanced CT: time to look beyond usual density metrics. Eur Radiol. https://doi.org/10.1007/s00330-023-10090-8
+4. 	Dai Q, Tao Y, Liu D, et al (2023) Ultrasound radiomics models based on multimodal imaging feature fusion of papillary thyroid carcinoma for predicting central lymph node metastasis. Front Oncol 13:
+5. 	Koçak B, Durmaz EŞ, Ateş E, Kılıçkesmez Ö (2019) Radiomics with artificial intelligence: a practical guide for beginners. Diagn Interv Radiol Ank Turk 25:485–495. https://doi.org/10.5152/dir.2019.19321
+6. 	Mayerhoefer ME, Materka A, Langs G, et al (2020) Introduction to Radiomics. J Nucl Med Off Publ Soc Nucl Med 61:488–495. https://doi.org/10.2967/jnumed.118.222893
+7. 	Fornacon-Wood I, Mistry H, Ackermann CJ, et al (2020) Reliability and prognostic value of radiomic features are highly dependent on choice of feature extraction platform. Eur Radiol 30:6241–6250. https://doi.org/10.1007/s00330-020-06957-9
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
