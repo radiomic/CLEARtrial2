@@ -20,7 +20,7 @@ nav_order: 7
 
 ### Explanation and elaboration of CLEAR item#7
 
-The significance of reporting using checklists and adhering to guidelines is emphasized in Item#7. In radiomics [4] and AI literature [5], self-reporting (i.e., checklist documentation by study authors) is infrequently observed, according to recent research. Two recent studies [4,5] suggest that even with self-reported checklists, the accuracy of the claimed items may not be entirely correct; therefore, a simple adherence statement may not be adequate. In both of the aforementioned instances, CLEAR was used as a reporting guideline alongside RQS (a quality scoring tool) and TRIPOD (a reporting guideline). Example#1 provided a concise summary of the items that were completed. In addition, both example studies provided supplements as filled-out checklists.
+The significance of reporting using checklists and adhering to guidelines is emphasized in Item#7. In radiomics [4] and AI literature [5], self-reporting (i.e., checklist documentation by study authors) is infrequently observed, according to recent research. Two recent studies [4, 5] suggest that even with self-reported checklists, the accuracy of the claimed items may not be entirely correct; therefore, a simple adherence statement may not be adequate. In both of the aforementioned instances, CLEAR was used as a reporting guideline alongside RQS (a quality scoring tool) and TRIPOD (a reporting guideline). Example#1 provided a concise summary of the items that were completed. In addition, both example studies provided supplements as filled-out checklists.
 
 ### References
 

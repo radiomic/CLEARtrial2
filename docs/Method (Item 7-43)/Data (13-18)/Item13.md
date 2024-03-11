@@ -25,6 +25,7 @@ nav_order: 13
 ### Explanation and elaboration of CLEAR item#13
 
 In item#13, the main point is on elucidating the data source, distinguishing between private and public origins. Authors are strongly encouraged to precisely specify the data source as private, public, or a combination of both (mixed), for ensuring ethical transparency [4]. Furthermore, it is crucial to explicitly state whether distinct data sources were utilized in various data partitions or tasks (see Example#2), accompanied by web links and references. This transparency is vital for accurately interpreting the study's results. Unique characteristics within different datasets can significantly impact the performance of radiomic features or predictive models. A thorough understanding of these nuances guarantees that the conclusions drawn from the study are appropriate and contextually relevant. Moreover, if the data are public and involve images or patient identifiers, it is important to include these details as supplementary information. This approach ensures a comprehensive and transparent representation of the data used, aligning with best practices in research integrity [5].
+
 ### References
 
 {: .fs-2 }
