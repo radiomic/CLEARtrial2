@@ -1,18 +1,20 @@
-## CLEAR item#3
+## CLEAR item#30
 
 
-“Relevant keywords for radiomics. List the primary keywords that indicate (e.g., radiomics, texture analysis) and characterize a radiomic study (e.g., machine learning, deep learning, computed tomography, magnetic resonance imaging, reproducibility), unless the journal requires exclusive use of certain terms (e.g., MeSH terms, which do not yet include radiomics-specific terms).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
+“Details of class imbalance. Indicate the balance status of the classes according to the reference standard. Provide details about how class imbalance is handled. Specify the techniques (e.g., synthetic minority over-sampling, simple over-sampling through replication, under-sampling) used to achieve the class balance. Clearly state these data augmentation and under-sampling strategies are applied only in the training set.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 
-### Reporting examples for CLEAR item#3
+### Reporting examples for CLEAR item#30
 
-> **Example#1.** “Renal cell carcinoma, Computed tomography, Radiomics, Deep learning” [2] (from [the article by Wang et al.](https://doi.org/10.1186/s13244-023-01557-9); licensed under CC BY 4.0)
+> **Example#1.** “Given the unbalanced condition for all molecular predictors […] an iterative way of K-fold cross-validation was applied. This method made sure that among the possible combinations of data splitting, only those one having the number of minority class subjects at least equal to half of the number of majority class were included among the eligible reshuffles.” [2] (from the article by Pasquini et al.; licensed under CC BY 4.0)
 
-> **Example#2.** “Magnetic resonance imaging, Radiomics, Knee osteoarthritis, Bone, Machine learning” [3] (from [the article by Hirvasniemi et al.](https://doi.org/10.1007/s00330-021-07951-5); licensed under CC BY 4.0)
+> **Example#2.** “A balanced distribution of the target molecular mutation is ensured in the training and testing sets in each molecular prediction model.” [3] (from the article by Shboul et al.; licensed under CC BY 4.0)
 
-### Explanation and elaboration of CLEAR item#3
+> **Example#3.** “Data category imbalance may cause the results of the model to be skewed toward the category with more data and reduce the reliability of the model. To address this problem, we used the synthetic minority oversampling technique (SMOTE), which increases the sample of minority categories.” [4] (from the article by Li et al.; licensed under CC BY 4.0)
 
-To make the published work searchable, the keywords must highlight its most important aspects. As Example#1 and Example#2 show, radiomics studies must clearly specify imaging modalities (MRI, CT, etc.), target conditions or pathology and anatomy, and analysis methods (machine learning, deep learning). Keywords that clearly state these characteristics help investigators find studies for their own work, systematic reviews, and meta-analyses of radiomics research.
+### Explanation and elaboration of CLEAR item#30
+
+When working with machine learning techniques, it is important that the different classes are balanced. Nevertheless, some diseases have inherently low incidence rates. While training a model, particularly if training with resampling occurs, a potential dataset imbalance should be addressed. A common technique is represented by oversampling the minority class data with mathematical methods, such as the synthetic minority over-sampling technique (SMOTE) [5]. To obtain clinically meaningful and representative performance metric values, it is particularly important not to alter the native class balance (i.e., prevalence or epidemiological representation) of the test sets. It should also be noted that not all models are equally affected by class imbalance.
 
 ### References
 

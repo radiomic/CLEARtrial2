@@ -1,26 +1,28 @@
-## CLEAR item#3
+## CLEAR item#29
 
 
-“Relevant keywords for radiomics. List the primary keywords that indicate (e.g., radiomics, texture analysis) and characterize a radiomic study (e.g., machine learning, deep learning, computed tomography, magnetic resonance imaging, reproducibility), unless the journal requires exclusive use of certain terms (e.g., MeSH terms, which do not yet include radiomics-specific terms).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
+“Handling of missing data. State if, and how much, missing data are present in the study. If so, provide details as to how it was addressed (e.g., deletion, substitution, or imputation).”  [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 
-### Reporting examples for CLEAR item#3
+### Reporting examples for CLEAR item#29
 
-> **Example#1.** “Renal cell carcinoma, Computed tomography, Radiomics, Deep learning” [2] (from [the article by Wang et al.](https://doi.org/10.1186/s13244-023-01557-9); licensed under CC BY 4.0)
+> **Example#1.** “This study deleted categories with missing values greater than 25%, and MICEforest multiple interpolation methods were used to fill the missing values. […] The items and proportions of missing data that were ultimately included in the study and subjected to multiple imputations using the MICEforest method are shown in Figure 5.” [2] (from the article by Lin et al.; licensed under CC BY 4.0)
 
-> **Example#2.** “Magnetic resonance imaging, Radiomics, Knee osteoarthritis, Bone, Machine learning” [3] (from [the article by Hirvasniemi et al.](https://doi.org/10.1007/s00330-021-07951-5); licensed under CC BY 4.0)
+> **Example#2.** “[…] missing values were imputed with a 𝑘-nearest neighbors imputer with 𝑘 = 8 and distance-based weights (see Appendix B.1 for a deeper analysis on the imputation and its parameters).” [3] (from the article by Isaksson et al.; licensed under CC BY 4.0)
 
-### Explanation and elaboration of CLEAR item#3
+### Explanation and elaboration of CLEAR item#29
 
-To make the published work searchable, the keywords must highlight its most important aspects. As Example#1 and Example#2 show, radiomics studies must clearly specify imaging modalities (MRI, CT, etc.), target conditions or pathology and anatomy, and analysis methods (machine learning, deep learning). Keywords that clearly state these characteristics help investigators find studies for their own work, systematic reviews, and meta-analyses of radiomics research.
+Addressing missing values involves acknowledging the potential occurrence of data gaps, encompassing both clinical and radiomic features. In clinical scenarios, complete deletion of instances with missing values may be impractical due to the necessity of utilizing predictive models despite incomplete data. An alternative approach involves the imputation of missing values. This process uses statistical techniques, ranging from simple methods such as substituting missing values with the mean, mode, or median, to more intricate strategies involving multivariate modeling [4]. By explicitly disclosing the presence and extent of missing data in the study, along with detailing the chosen imputation methodology, researchers enhance the transparency of their radiomics study. This also allows for a more comprehensive understanding of the dataset's integrity and potential impact on study outcomes as well as possible use cases of the developed model.
 
 ### References
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wang S, Zhu C, Jin Y, et al (2023) A multi-model based on radiogenomics and deep learning techniques associated with histological grade and survival in clear cell renal cell carcinoma. Insights Imaging 14:207. [https://doi.org/10.1186/s13244-023-01557-9](https://doi.org/10.1186/s13244-023-01557-9)
-3. 	Hirvasniemi J, Klein S, Bierma-Zeinstra S, et al (2021) A machine learning approach to distinguish between knees without and with osteoarthritis using MRI-based radiomic features from tibial bone. Eur Radiol 31:8513–8521. [https://doi.org/10.1007/s00330-021-07951-5](https://doi.org/10.1007/s00330-021-07951-5)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Lin Q, Wu HJ, Song QS, Tang YK (2022) CT-based radiomics in predicting pathological response in non-small cell lung cancer patients receiving neoadjuvant immunotherapy. Front Oncol 12:
+3. 	Isaksson LJ, Repetto M, Summers PE, et al (2023) High-performance prediction models for prostate cancer radiomics. Inform Med Unlocked 37:101161. https://doi.org/10.1016/j.imu.2023.101161
+4. 	Stanzione A, Cuocolo R, Ugga L, et al (2022) Oncologic Imaging and Radiomics: A Walkthrough Review of Methodological Challenges. Cancers 14:4871. https://doi.org/10.3390/cancers14194871
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
