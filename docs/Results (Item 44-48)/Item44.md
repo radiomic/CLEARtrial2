@@ -1,26 +1,31 @@
-## CLEAR item#3
+## CLEAR item#44
 
 
-“Relevant keywords for radiomics. List the primary keywords that indicate (e.g., radiomics, texture analysis) and characterize a radiomic study (e.g., machine learning, deep learning, computed tomography, magnetic resonance imaging, reproducibility), unless the journal requires exclusive use of certain terms (e.g., MeSH terms, which do not yet include radiomics-specific terms).” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
+“Baseline demographic and clinical characteristics. Provide the baseline demographic, clinical, and imaging characteristics in text and/or tables. Report the information separately for training, validation (i.e., cross- validation), and test datasets, along with grouping based on the reference standard or non-radiomic variables. Associated statistical tests should also be provided to identify if the sets are identical or not. Provide whether any confounder is detected and handled appropriately.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 
-### Reporting examples for CLEAR item#3
+### Reporting examples for CLEAR item#44
 
-> **Example#1.** “Renal cell carcinoma, Computed tomography, Radiomics, Deep learning” [2] (from [the article by Wang et al.](https://doi.org/10.1186/s13244-023-01557-9); licensed under CC BY 4.0)
+> **Example#1.** “A total of 150 patients with CKD were identified in Table 1” [2] (from the article by Ge et al.; licensed under CC BY 4.0)
+>
+> ![Fig1](/CLEAR-E3/figs/Item44_example1.png)
 
-> **Example#2.** “Magnetic resonance imaging, Radiomics, Knee osteoarthritis, Bone, Machine learning” [3] (from [the article by Hirvasniemi et al.](https://doi.org/10.1007/s00330-021-07951-5); licensed under CC BY 4.0)
+> **Example#2.** “Table 1 shows the detailed demographic information of the participants” [3] (from the article by Wu et al.; licensed under CC BY 4.0)
+>
+> ![Fig2](/CLEAR-E3/figs/Item44_example2.png)
 
-### Explanation and elaboration of CLEAR item#3
+### Explanation and elaboration of CLEAR item#44
 
-To make the published work searchable, the keywords must highlight its most important aspects. As Example#1 and Example#2 show, radiomics studies must clearly specify imaging modalities (MRI, CT, etc.), target conditions or pathology and anatomy, and analysis methods (machine learning, deep learning). Keywords that clearly state these characteristics help investigators find studies for their own work, systematic reviews, and meta-analyses of radiomics research.
+In Example#1, a table is used to present demographic, ultrasound, and laboratory findings for 150 patients with chronic kidney disease (CKD). This presentation aids in understanding the population's characteristics and the context of the study. Example#2 shows demographic information, distinguishing between training and test sets. This separation is crucial for assessing the balance of the datasets, ensuring that the training and test data are comparable.
 
 ### References
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wang S, Zhu C, Jin Y, et al (2023) A multi-model based on radiogenomics and deep learning techniques associated with histological grade and survival in clear cell renal cell carcinoma. Insights Imaging 14:207. [https://doi.org/10.1186/s13244-023-01557-9](https://doi.org/10.1186/s13244-023-01557-9)
-3. 	Hirvasniemi J, Klein S, Bierma-Zeinstra S, et al (2021) A machine learning approach to distinguish between knees without and with osteoarthritis using MRI-based radiomic features from tibial bone. Eur Radiol 31:8513–8521. [https://doi.org/10.1007/s00330-021-07951-5](https://doi.org/10.1007/s00330-021-07951-5)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Ge X-Y, Lan Z-K, Lan Q-Q, et al (2023) Diagnostic accuracy of ultrasound-based multimodal radiomics modeling for fibrosis detection in chronic kidney disease. Eur Radiol 33:2386–2398. https://doi.org/10.1007/s00330-022-09268-3
+3. 	Wu H, Luo B, Zhao Y, et al (2022) Radiomics analysis of the optic nerve for detecting dysthyroid optic neuropathy, based on water-fat imaging. Insights Imaging 13:154. https://doi.org/10.1186/s13244-022-01292-7
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
