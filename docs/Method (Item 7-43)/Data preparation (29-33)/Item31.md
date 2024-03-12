@@ -1,3 +1,11 @@
+---
+title: Item#31
+layout: home
+parent: Data preparation (29-33)
+grand_parent: Method (Item 7-43)
+nav_order: 31
+---
+
 ## CLEAR item#31
 
 

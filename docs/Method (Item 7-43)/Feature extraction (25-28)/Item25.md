@@ -1,3 +1,11 @@
+---
+title: Item#25
+layout: home
+parent: Feature extraction (25-28)
+grand_parent: Method (Item 7-43)
+nav_order: 25
+---
+
 ## CLEAR item#25
 
 

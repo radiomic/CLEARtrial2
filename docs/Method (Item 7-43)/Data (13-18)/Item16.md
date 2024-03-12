@@ -1,3 +1,11 @@
+---
+title: Item#16
+layout: home
+parent: Data (13-18)
+grand_parent: Method (Item 7-43)
+nav_order: 16
+---
+
 ## CLEAR item#16
 
 

@@ -1,3 +1,11 @@
+---
+title: Item#38
+layout: home
+parent: Evaluation (38-43)
+grand_parent: Method (Item 7-43)
+nav_order: 38
+---
+
 ## CLEAR item#38
 
 

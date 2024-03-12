@@ -1,3 +1,11 @@
+---
+title: Item#35
+layout: home
+parent: Modeling (34-37)
+grand_parent: Method (Item 7-43)
+nav_order: 35
+---
+
 ## CLEAR item#35
 
 
