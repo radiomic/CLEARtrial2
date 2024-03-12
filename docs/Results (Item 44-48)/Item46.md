@@ -1,7 +1,7 @@
 ---
 title: Item#46
 layout: home
-parent: Results (Item 44-48)
+parent: Results (Item#44-48)
 nav_order: 46
 ---
 

@@ -2,7 +2,7 @@
 title: Item#13
 layout: home
 parent: Data (13-18)
-grand_parent: Method (Item 7-43)
+grand_parent: Method (Item#7-43)
 nav_order: 13
 ---
 

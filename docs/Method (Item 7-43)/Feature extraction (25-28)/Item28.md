@@ -2,7 +2,7 @@
 title: Item#28
 layout: home
 parent: Feature extraction (25-28)
-grand_parent: Method (Item 7-43)
+grand_parent: Method (Item#7-43)
 nav_order: 28
 ---
 

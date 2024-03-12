@@ -1,7 +1,7 @@
 ---
 title: Item#3
 layout: home
-parent: Keywords (Item 3)
+parent: Keywords (Item#3)
 nav_order: 3
 ---
 
