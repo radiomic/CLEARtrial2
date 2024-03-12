@@ -14,13 +14,13 @@ nav_order: 20
 
 ### Reporting examples for CLEAR item#20
 
-> **Example#1.** “Supervised manual delineation of all primary tumors was performed by S.M. and B.P. (both 3 years of experience) with visual inspection of delineation by senior head and neck radiologists (P.G. or F.P. with 11 and 25 years of experience).” [2] (from the article by Mes et al.; licensed under CC BY 4.0)
+> **Example#1.** “Supervised manual delineation of all primary tumors was performed by S.M. and B.P. (both 3 years of experience) with visual inspection of delineation by senior head and neck radiologists (P.G. or F.P. with 11 and 25 years of experience).” [2] (from [the article by Mes et al.](https://doi.org/10.1007/s00330-020-06962-y); licensed under CC BY 4.0)
 
-> **Example#2.** “Segmentation was performed under standardized lighting conditions by consensus reading of two experienced observers (G.K. and S.Z.) and quality-controlled by an abdominal radiologist with more than 10 years of experience in pancreatic MRI” [3] (from the article by Kaissis et al.; licensed under CC BY 4.0)
+> **Example#2.** “Segmentation was performed under standardized lighting conditions by consensus reading of two experienced observers (G.K. and S.Z.) and quality-controlled by an abdominal radiologist with more than 10 years of experience in pancreatic MRI” [3] (from [the article by Kaissis et al.](https://doi.org/10.1186/s41747-019-0119-0); licensed under CC BY 4.0)
 
-> **Example#3.** “Manual lesion segmentation was carried out by one expert radiologist with more than 10 years of experience in breast MRI on the co-registered images using ImageJ.” [4] (from the article by D’Amico et al.; licensed under CC BY 4.0)
+> **Example#3.** “Manual lesion segmentation was carried out by one expert radiologist with more than 10 years of experience in breast MRI on the co-registered images using ImageJ.” [4] (from [the article by D’Amico et al.](https://doi.org/10.1186/s41747-019-0131-4); licensed under CC BY 4.0)
 
-> **Example#4.** “VOI was drawn on each image slice that contained the optic nerve tissue by two radiologists with more than 5 years of experience in diagnosing DON independently. The radiologists were unaware of the results of diagnoses (TAO with or without DON).” [5] (from the article by Wu et al.; licensed under CC BY 4.0)
+> **Example#4.** “VOI was drawn on each image slice that contained the optic nerve tissue by two radiologists with more than 5 years of experience in diagnosing DON independently. The radiologists were unaware of the results of diagnoses (TAO with or without DON).” [5] (from [the article by Wu et al.](https://doi.org/10.1186/s13244-022-01292-7); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#20
 

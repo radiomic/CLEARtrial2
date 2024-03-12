@@ -14,11 +14,11 @@ nav_order: 22
 
 ### Reporting examples for CLEAR item#22
 
-> **Example#1.** “Voxel size resampling was performed before feature extraction using cubic and linear interpolation separately. Images were resampled to a voxel size of 3 × 3  ×  3 mm3; more information about the choice of voxel size can be found in the Supplementary Materials (Voxel size section).” [2] (from the article by Casela et al.; licensed under CC BY 4.0)
+> **Example#1.** “Voxel size resampling was performed before feature extraction using cubic and linear interpolation separately. Images were resampled to a voxel size of 3 × 3  ×  3 mm3; more information about the choice of voxel size can be found in the Supplementary Materials (Voxel size section).” [2] (from [the article by Casela et al.](https://doi.org/10.1016/j.ejrad.2021.109678); licensed under CC BY 4.0)
 
-> **Example#2.** “In the phantom application, radiomics data from images without voxel resampling were extracted to study the impact of image resampling on radiomics data. For batch correction analysis, the images and masks were resampled to isometric voxels of 1 × 1 × 1 mm3 using spline interpolation and nearest-neighbor interpolation, respectively.” [3] (from the article by Ligero et al.; licensed under CC BY 4.0)
+> **Example#2.** “In the phantom application, radiomics data from images without voxel resampling were extracted to study the impact of image resampling on radiomics data. For batch correction analysis, the images and masks were resampled to isometric voxels of 1 × 1 × 1 mm3 using spline interpolation and nearest-neighbor interpolation, respectively.” [3] (from [the article by Ligero et al.](https://doi.org/10.1007/s00330-020-07174-0); licensed under CC BY 4.0)
 
-> **Example#3.** “Resampling was performed by a selection of four commonly image interpolation methods provided by SimpleITK and available in Pyradiomics. These methods included nearest neighbor, linear, Bspline and Blackman windowed-sinc interpolation” [4] (from the article by Bleker et al.; licensed under CC BY 4.0)
+> **Example#3.** “Resampling was performed by a selection of four commonly image interpolation methods provided by SimpleITK and available in Pyradiomics. These methods included nearest neighbor, linear, Bspline and Blackman windowed-sinc interpolation” [4] (from [the article by Bleker et al.](https://doi.org/10.1002/jmri.28935); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#22
 

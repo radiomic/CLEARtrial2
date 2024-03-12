@@ -14,9 +14,9 @@ nav_order: 21
 
 ### Reporting examples for CLEAR item#21
 
-> **Example#1.** “Preprocessing was performed with voxel resampling to 1 × 1 × 1 mm, whole-image gray level z-score normalization, scaling by a 100 factor and array shift (by 300), followed by discretization with a fixed bin width (= 5)”. [2] (from the article by Cuocolo et al.; licensed under CC BY 4.0)
+> **Example#1.** “Preprocessing was performed with voxel resampling to 1 × 1 × 1 mm, whole-image gray level z-score normalization, scaling by a 100 factor and array shift (by 300), followed by discretization with a fixed bin width (= 5)”. [2] (from [the article by Cuocolo et al.](https://doi.org/10.1007/s00330-021-07856-3); licensed under CC BY 4.0)
 
-> **Example#2.** “In the image pre-processing stage, we used B-spline interpolation resampling for image voxel size normalization, and all image sets were resampled to isotropic voxel size of 1 × 1 × 1 mm. Z-score intensity normalization was applied to reduce the impact of variability in image intensities on the stability of the radiomics features.” [3] (from the article by Chen et al.; licensed under CC BY 4.0)
+> **Example#2.** “In the image pre-processing stage, we used B-spline interpolation resampling for image voxel size normalization, and all image sets were resampled to isotropic voxel size of 1 × 1 × 1 mm. Z-score intensity normalization was applied to reduce the impact of variability in image intensities on the stability of the radiomics features.” [3] (from [the article by Chen et al.](https://doi.org/10.1186/s13244-023-01523-5); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#21
 

@@ -14,9 +14,9 @@ nav_order: 17
 
 ### Reporting examples for CLEAR item#17
 
-> **Example#1.** “Patients’ clinicopathological information was acquired from the hospital information system at each study center. Clinical information includes patients’ age, body mass index (BMI), menopausal status, prior treatment history, combination regimen with ICIs, lines of previous therapy in the context of metastatic disease, hematologic indicators, blood biochemical indices, and tumor metastatic burden. Pathological information included tumor pathological type, (estrogen receptor progesterone receptor and HER2 status), Ki67 proliferation index, and PD-L1 expression status.” [2] (from the article by Zhao et al.; licensed under CC BY-NC 4.0)
+> **Example#1.** “Patients’ clinicopathological information was acquired from the hospital information system at each study center. Clinical information includes patients’ age, body mass index (BMI), menopausal status, prior treatment history, combination regimen with ICIs, lines of previous therapy in the context of metastatic disease, hematologic indicators, blood biochemical indices, and tumor metastatic burden. Pathological information included tumor pathological type, (estrogen receptor progesterone receptor and HER2 status), Ki67 proliferation index, and PD-L1 expression status.” [2] (from [the article by Zhao et al.](https://doi.org/10.1136/jitc-2022-006514); licensed under CC BY-NC 4.0)
 
-> **Example#2.** “Clinical data, including the patient age at diagnosis, date of surgery, type and grade of tumor, the international federation of obstetricians and gynecologists (FIGO) stage, presence of lymphovascular space invasion, and any adjuvant or neoadjuvant treatment of these subjects were obtained from an online medical records system.” [3] (from the article by Li et al.; licensed under CC BY 4.0)
+> **Example#2.** “Clinical data, including the patient age at diagnosis, date of surgery, type and grade of tumor, the international federation of obstetricians and gynecologists (FIGO) stage, presence of lymphovascular space invasion, and any adjuvant or neoadjuvant treatment of these subjects were obtained from an online medical records system.” [3] (from [the article by Li et al.](https://doi.org/10.1002/jmri.28544); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#17
 

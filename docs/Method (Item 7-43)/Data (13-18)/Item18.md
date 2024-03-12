@@ -14,11 +14,11 @@ nav_order: 18
 
 ### Reporting examples for CLEAR item#18
 
-> **Example#1.** “Methylation patterns in the CpG islands of MGMT were determined using pathological specimens after surgery by the chemical modification of unmethylated cytosines to uracils, followed by methylation-specific polymerase chain reaction (PCR) using primers specific for either methylated or modified, unmethylated DNA. […] The MGMTp methylation status was analyzed only on a part of the tumor and, therefore, these data could not describe the possible intra-tumoral heterogeneity.” [2] (from the article by Doniselli et al.; licensed under CC BY 4.0)
+> **Example#1.** “Methylation patterns in the CpG islands of MGMT were determined using pathological specimens after surgery by the chemical modification of unmethylated cytosines to uracils, followed by methylation-specific polymerase chain reaction (PCR) using primers specific for either methylated or modified, unmethylated DNA. […] The MGMTp methylation status was analyzed only on a part of the tumor and, therefore, these data could not describe the possible intra-tumoral heterogeneity.” [2] (from [the article by Doniselli et al.](https://doi.org/10.3390/ijms25010138); licensed under CC BY 4.0)
 
-> **Example#2.** “Data were labelled as malignant or benign based on histopathology using Murine Double Minute 2 (MDM2) gene amplification by fluorescence in situ hybridisation (FISH).” [3] (from the article by Fradet et al.; licensed under CC BY 4.0)
+> **Example#2.** “Data were labelled as malignant or benign based on histopathology using Murine Double Minute 2 (MDM2) gene amplification by fluorescence in situ hybridisation (FISH).” [3] (from [the article by Fradet et al.](https://doi.org/10.1186/s41747-022-00295-9); licensed under CC BY 4.0)
 
-> **Example#3.** “The reference standard was the pathology from surgical specimen. […] The pCR was classified according to Miller-Payne grade: grade 1 for no reduction, grade 2 for minor loss (≤ 30%), grade 3 for loss from 30 to 90%, grade 4 for marked loss (> 90%), and grade 5 for no residual invasive cancer. Patients with grades 1, 2, 3, or 4 were scored as non-pCR.” [4] (from the article by Fusco et al.; licensed under CC BY 4.0)
+> **Example#3.** “The reference standard was the pathology from surgical specimen. […] The pCR was classified according to Miller-Payne grade: grade 1 for no reduction, grade 2 for minor loss (≤ 30%), grade 3 for loss from 30 to 90%, grade 4 for marked loss (> 90%), and grade 5 for no residual invasive cancer. Patients with grades 1, 2, 3, or 4 were scored as non-pCR.” [4] (from [the article by Fusco et al.](https://doi.org/10.1186/s41747-019-0141-2); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#18
 

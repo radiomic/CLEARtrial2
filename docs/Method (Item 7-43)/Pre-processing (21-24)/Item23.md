@@ -14,9 +14,9 @@ nav_order: 23
 
 ### Reporting examples for CLEAR item#23
 
-> **Example#1.** “In this volume of interest (VOI), intensities of FDG uptake were resampled with an absolute method of 64 discrete values and bounds set to 0 and 30 SUV values, corresponding to the typical range of tumor SUVs encountered in GEJC.” [2] (from the article by Amrane  et al.; licensed under CC BY 4.0)
+> **Example#1.** “In this volume of interest (VOI), intensities of FDG uptake were resampled with an absolute method of 64 discrete values and bounds set to 0 and 30 SUV values, corresponding to the typical range of tumor SUVs encountered in GEJC.” [2] (from [the article by Amrane  et al.](https://doi.org/10.1038/s41598-023-31587-8); licensed under CC BY 4.0)
 
-> **Example#2.** “Voxel intensities were aggregated into 25 bins of Hounsfield Units to reduce noise and inter-scanner variability.” [3] (from the article by Refaee et al.; licensed under CC BY 4.0)
+> **Example#2.** “Voxel intensities were aggregated into 25 bins of Hounsfield Units to reduce noise and inter-scanner variability.” [3] (from [the article by Refaee et al.](https://doi.org/10.3389/fmed.2022.915243); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#23
 
