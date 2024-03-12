@@ -17,13 +17,13 @@ nav_order: 45
 >
 > ![Fig1](/CLEAR-E3/figs/Item45_Figure1.png)
 >
-> Figure 1. “The flow chart of the study design.” [2] (from [the article by Feng et al.](https://doi.org/10.1186/s13244-023-01423-8); licensed under CC BY 4.0) 
+> **Figure 1.** “The flow chart of the study design.” [2] (from [the article by Feng et al.](https://doi.org/10.1186/s13244-023-01423-8); licensed under CC BY 4.0) 
 
 > **Example#2.** See Figure 2. 
 >
 > ![Fig2](/CLEAR-E3/figs/Item45_Figure2.png)
 >
-> Figure 2. “The flowchart of the patient recruitment process” [3] (from [the article by Liu et al.](https://doi.org/10.1186/s13244-023-01526-2); licensed under CC BY 4.0) 
+> **Figure 2.** “The flowchart of the patient recruitment process” [3] (from [the article by Liu et al.](https://doi.org/10.1186/s13244-023-01526-2); licensed under CC BY 4.0) 
 
 ### Explanation and elaboration of CLEAR item#45
 
