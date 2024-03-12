@@ -18,7 +18,8 @@ nav_order: 57
 > **Example#2.** “The exact description of the machine learning methods with the model and training parameters used can be found as code online ([https://github.com/NikonPic/bonetumor-radiomics](https://github.com/NikonPic/bonetumor-radiomics)).” [3] (from [the article by von Schacky et al.](https://doi.org/10.1007/s00330-022-08764-w); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of item#57
-Item#57 focuses on the importance of sharing the final model and source code to increase the transparency of radiomics research. This is strictly related to the reproducibility concerns of current radiomics research. The limited availability of open-source code and data is one of the main causes of poor validation and clinical translation of radiomics research. Currently, there is a paucity of radiomics and artificial intelligence studies reporting providing the final model code, as reported by recent systematic reviews [4-6]. Most radiomics research is oriented to publishing new models without providing access to the code, rather than testing the performance of already developed data.
+
+Item #57 focuses on the importance of sharing the final model and source code to increase the transparency of radiomics research. This is strictly related to the reproducibility concerns of current radiomics research. Limited availability of open-source code and data is one of the main reasons for poor validation and clinical translation of radiomics research. Currently, there is a paucity of radiomics and artificial intelligence studies reporting providing final model code, as reported by recent systematic reviews [4–6]. Most radiomics research is oriented towards publishing new models without providing access to the code, rather than testing the performance of already developed data.
 
 ### References
 
