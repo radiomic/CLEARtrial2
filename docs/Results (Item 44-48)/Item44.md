@@ -34,5 +34,5 @@ In Example#1, a table is used to present demographic, ultrasound, and laboratory
 3. 	Wu H, Luo B, Zhao Y, et al (2022) Radiomics analysis of the optic nerve for detecting dysthyroid optic neuropathy, based on water-fat imaging. Insights Imaging 13:154. https://doi.org/10.1186/s13244-022-01292-7
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Evaluation%20(38-43)/Item43.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item45.html){: .btn .btn-purple   }

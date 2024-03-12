@@ -33,5 +33,5 @@ The strengths of the study should be explicitly highlighted, emphasizing aspects
 4. 	Sushentsev N, Rundo L, Blyuss O, et al (2021) MRI-derived radiomics model for baseline prediction of prostate cancer progression on active surveillance. Sci Rep 11:12917. https://doi.org/10.1038/s41598-021-92341-6
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item51.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Data%20availability%20(53-54)/Item53.html){: .btn .btn-purple   }

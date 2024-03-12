@@ -43,6 +43,6 @@ Before using feature selection techniques and classifiers for modeling, generic 
 6. 	Zhang W, Guo Y, Jin Q (2023) Radiomics and Its Feature Selection: A Review. Symmetry 15:1834. https://doi.org/10.3390/sym15101834
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item45.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item47.html){: .btn .btn-purple   }
 

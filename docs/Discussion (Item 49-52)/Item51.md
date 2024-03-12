@@ -33,5 +33,5 @@ The ultimate goal of radiomics is to enhance clinical practice. Researchers must
 4. 	Wei J, Yang G, Hao X, et al (2019) A multi-sequence and habitat-based MRI radiomics signature for preoperative prediction of MGMT promoter methylation in astrocytomas with prognostic implication. Eur Radiol 29:877–888. https://doi.org/10.1007/s00330-018-5575-z
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item50.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item52.html){: .btn .btn-purple   }

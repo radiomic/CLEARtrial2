@@ -42,5 +42,5 @@ Effective reporting of model performance involves presenting performance metrics
 4. 	Fan Y, Hua M, Mou A, et al (2019) Preoperative Noninvasive Radiomics Approach Predicts Tumor Consistency in Patients With Acromegaly: Development and Multicenter Prospective Validation. Front Endocrinol 10:403. https://doi.org/10.3389/fendo.2019.00403
 5. 	Hatt M, Krizsan AK, Rahmim A, et al (2023) Joint EANM/SNMMI guideline on radiomics in nuclear medicine : Jointly supported by the EANM Physics Committee and the SNMMI Physics, Instrumentation and Data Sciences Council. Eur J Nucl Med Mol Imaging 50:352–375. https://doi.org/10.1007/s00259-022-06001-6
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item46.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item48.html){: .btn .btn-purple   }

@@ -43,5 +43,5 @@ This item centers around the requirements for comparing the performance of radio
 3. 	Gong J, Zhang Z, Luo T, et al (2022) Combined model of radiomics, clinical, and imaging features for differentiating focal pneumonia-like lung cancer from pulmonary inflammatory lesions: an exploratory study. BMC Med Imaging 22:98. https://doi.org/10.1186/s12880-022-00822-5
 4. 	Zhao Y, Wang X, Zhang Y, et al (2024) Combination of clinical information and radiomics models for the differentiation of acute simple appendicitis and non simple appendicitis on CT images. Sci Rep 14:1854. https://doi.org/10.1038/s41598-024-52390-z
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item47.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item49.html){: .btn .btn-purple   }

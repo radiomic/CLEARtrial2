@@ -34,5 +34,5 @@ Item #49 highlights the pivotal role of the discussion section in a radiomics re
 4. 	van Timmeren JE, Cester D, Tanadini-Lang S, et al (2020) Radiomics in medical imaging—“how-to” guide and critical reflection. Insights Imaging 11:91. https://doi.org/10.1186/s13244-020-00887-2
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Results%20(Item%2044-48)/Item48.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item50.html){: .btn .btn-purple   }

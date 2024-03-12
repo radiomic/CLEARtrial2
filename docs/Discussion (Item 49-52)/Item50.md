@@ -37,5 +37,5 @@ The discussion section focuses on the interpretation of results, particularly on
 8. 	Clarke M, Chalmers I (1998) Discussion Sections in Reports of Controlled Trials Published in General Medical JournalsIslands in Search of Continents? JAMA 280:280–282. https://doi.org/10.1001/jama.280.3.280
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item49.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item51.html){: .btn .btn-purple   }
