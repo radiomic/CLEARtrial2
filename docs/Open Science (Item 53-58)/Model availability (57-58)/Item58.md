@@ -29,12 +29,13 @@ Data sharing and open science are important for several reasons. Firstly, it all
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Ingwersen EW, Bereska JI, Balduzzi A, et al (2023) Radiomics preoperative-Fistula Risk Score (RAD-FRS) for pancreatoduodenectomy: development and external validation. BJS Open 7:zrad100. [https://doi.org/10.1093/bjsopen/zrad100](https://doi.org/10.1093/bjsopen/zrad100)
-3. 	Cherezov D, Paul R, Fetisov N, et al (2020) Lung Nodule Sizes Are Encoded When Scaling CT Image for CNN’s. Tomography 6:209–215. [https://doi.org/10.18383/j.tom.2019.00024](https://doi.org/10.18383/j.tom.2019.00024)
-4. 	Woznicki P, Laqua F, Bley T, Baeßler B (2022) AutoRadiomics: A Framework for Reproducible Radiomics Research. Front Radiol https://doi.org/10.3389/fradi.2022.919133
-5. 	Akinci D’Antonoli T, Cuocolo R, Baessler B, Pinto dos Santos D (2023) Towards reproducible radiomics research: introduction of a database for radiomics studies. Eur Radiol. [https://doi.org/10.1007/s00330-023-10095-3](https://doi.org/10.1007/s00330-023-10095-3)
-6. 	Waring J, Lindvall C, Umeton R (2020) Automated machine learning: Review of the state-of-the-art and opportunities for healthcare. Artif Intell Med 104:101822. [https://doi.org/10.1016/j.artmed.2020.101822](https://doi.org/10.1016/j.artmed.2020.101822)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Ingwersen EW, Bereska JI, Balduzzi A, et al (2023) Radiomics preoperative-Fistula Risk Score (RAD-FRS) for pancreatoduodenectomy: development and external validation. BJS Open 7:zrad100. https://doi.org/10.1093/bjsopen/zrad100
+3. 	Cherezov D, Paul R, Fetisov N, et al (2020) Lung Nodule Sizes Are Encoded When Scaling CT Image for CNN’s. Tomography 6:209–215. https://doi.org/10.18383/j.tom.2019.00024
+4. 	Woznicki P, Laqua F, Bley T, Baeßler B (2022) AutoRadiomics: A Framework for Reproducible Radiomics Research. Front Radiol 2:
+5. 	Akinci D’Antonoli T, Cuocolo R, Baessler B, Pinto dos Santos D (2023) Towards reproducible radiomics research: introduction of a database for radiomics studies. Eur Radiol. https://doi.org/10.1007/s00330-023-10095-3
+6. 	Waring J, Lindvall C, Umeton R (2020) Automated machine learning: Review of the state-of-the-art and opportunities for healthcare. Artif Intell Med 104:101822. https://doi.org/10.1016/j.artmed.2020.101822
+
 
 
 

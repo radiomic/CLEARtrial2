@@ -29,10 +29,12 @@ Item #56 in the CLEAR checklist underscores the importance of sharing source cod
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Kolossváry M, Karády J, Kikuchi Y, et al (2019) Radiomics versus Visual and Histogram-based Assessment to Identify Atheromatous Lesions at Coronary CT Angiography: An ex Vivo Study. Radiology 293:89–96. [https://doi.org/10.1148/radiol.2019190407](https://doi.org/10.1148/radiol.2019190407)
-3. 	Wang T, She Y, Yang Y, et al (2022) Radiomics for Survival Risk Stratification of Clinical and Pathologic Stage IA Pure-Solid Non–Small Cell Lung Cancer. Radiology 302:425–434. [https://doi.org/10.1148/radiol.2021210109](https://doi.org/10.1148/radiol.2021210109)
-4. 	Li M, Qin H, Yu X, et al (2023) Preoperative prediction of Lauren classification in gastric cancer: a radiomics model based on dual-energy CT iodine map. Insights Imaging 14:125. [https://doi.org/10.1186/s13244-023-01477-8](https://doi.org/10.1186/s13244-023-01477-8)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Kolossváry M, Karády J, Kikuchi Y, et al (2019) Radiomics versus Visual and Histogram-based Assessment to Identify Atheromatous Lesions at Coronary CT Angiography: An ex Vivo Study. Radiology 293:89–96. https://doi.org/10.1148/radiol.2019190407
+3. 	Wang T, She Y, Yang Y, et al (2022) Radiomics for Survival Risk Stratification of Clinical and Pathologic                     Stage IA Pure-Solid Non–Small Cell Lung Cancer. Radiology 302:425–434. https://doi.org/10.1148/radiol.2021210109
+4. 	Li M, Qin H, Yu X, et al (2023) Preoperative prediction of Lauren classification in gastric cancer: a radiomics model based on dual-energy CT iodine map. Insights Imaging 14:125. https://doi.org/10.1186/s13244-023-01477-8
+
+
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Code%20availability%20(55-56)/Item55.html){: .btn .btn-purple .mr-5 }

@@ -24,12 +24,17 @@ Item #57 focuses on the importance of sharing the final model and source code to
 ### References
 
 {: .fs-2 }
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Gitto S, Cuocolo R, Langevelde K van, et al (2022) MRI radiomics-based machine learning classification of atypical cartilaginous tumour and grade II chondrosarcoma of long bones. eBioMedicine 75:. [https://doi.org/10.1016/j.ebiom.2021.103757](https://doi.org/10.1016/j.ebiom.2021.103757)
-3. 	von Schacky CE, Wilhelm NJ, Schäfer VS, et al (2022) Development and evaluation of machine learning models based on X-ray radiomics for the classification and differentiation of malignant and benign bone tumors. Eur Radiol 32:6247–6257. [https://doi.org/10.1007/s00330-022-08764-w](https://doi.org/10.1007/s00330-022-08764-w)
-4. 	Ponsiglione A, Stanzione A, Spadarella G, et al (2023) Ovarian imaging radiomics quality score assessment: an EuSoMII radiomics auditing group initiative. Eur Radiol 33:2239–2247. [https://doi.org/10.1007/s00330-022-09180-w](https://doi.org/10.1007/s00330-022-09180-w)
-5. 	Cannella R, Vernuccio F, Klontzas ME, et al (2023) Systematic review with radiomics quality score of cholangiocarcinoma: an EuSoMII Radiomics Auditing Group Initiative. Insights Imaging 14:21. [https://doi.org/10.1186/s13244-023-01365-1](https://doi.org/10.1186/s13244-023-01365-1)
-6. 	Kocak B, Yardimci AH, Yuzkan S, et al (2023) Transparency in Artificial Intelligence Research: a Systematic Review of Availability Items Related to Open Science in Radiology and Nuclear Medicine. Acad Radiol 30:2254–2266. [https://doi.org/10.1016/j.acra.2022.11.030](https://doi.org/10.1016/j.acra.2022.11.030)
+
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Gitto S, Cuocolo R, Langevelde K van, et al (2022) MRI radiomics-based machine learning classification of atypical cartilaginous tumour and grade II chondrosarcoma of long bones. eBioMedicine 75:. https://doi.org/10.1016/j.ebiom.2021.103757
+3. 	von Schacky CE, Wilhelm NJ, Schäfer VS, et al (2022) Development and evaluation of machine learning models based on X-ray radiomics for the classification and differentiation of malignant and benign bone tumors. Eur Radiol 32:6247–6257. https://doi.org/10.1007/s00330-022-08764-w
+4. 	Ponsiglione A, Stanzione A, Spadarella G, et al (2023) Ovarian imaging radiomics quality score assessment: an EuSoMII radiomics auditing group initiative. Eur Radiol 33:2239–2247. https://doi.org/10.1007/s00330-022-09180-w
+5. 	Cannella R, Vernuccio F, Klontzas ME, et al (2023) Systematic review with radiomics quality score of cholangiocarcinoma: an EuSoMII Radiomics Auditing Group Initiative. Insights Imaging 14:21. https://doi.org/10.1186/s13244-023-01365-1
+6. 	Kocak B, Yardimci AH, Yuzkan S, et al (2023) Transparency in Artificial Intelligence Research: a Systematic Review of Availability Items Related to Open Science in Radiology and Nuclear Medicine. Acad Radiol 30:2254–2266. https://doi.org/10.1016/j.acra.2022.11.030
+
+
+
+
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Code%20availability%20(55-56)/Item56.html){: .btn .btn-purple  .mr-5  }
