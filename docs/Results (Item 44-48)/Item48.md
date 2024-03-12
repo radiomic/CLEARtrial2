@@ -13,7 +13,8 @@ nav_order: 48
 
 ### Reporting examples for CLEAR item#48
 
-> **Example#1.** See Table 3 and Table 4. 
+> **Example#1.** See Table 3 and Table 4.
+> 
 > "**Table 3.** Performance of the three prediction models." [2] (from [the article by Xiong et al.](https://doi.org/10.1371/journal.pone.0269356); licensed under CC BY 4.0)
 > ![Fig1](/CLEAR-E3/figs/Item48_example1_1.png)
 >
