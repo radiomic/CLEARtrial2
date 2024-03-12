@@ -7,13 +7,13 @@ nav_order: 54
 
 ---
 
-## CLEAR item#3
+## CLEAR item#54
 
 
 “Sharing radiomic feature data. Share selected radiomic feature data along with clinical variables or labels with the public, if possible (i.e., in accordance with the regulatory constraints of the institute). Specify the reason if the radiomic feature data are not available.” [1] (from [the article by Kocak et al.](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01415-8); licensed under CC BY 4.0)
 
 
-### Reporting examples for CLEAR item#3
+### Reporting examples for CLEAR item#54
 
 > **Example#1.** “The data and the R code that support the findings of this study are available at https://github.com/harveerar/SciRepEndometrial2020.” [2] (from the article by  Veeraraghavan et al.; licensed under CC BY 4.0)
 
@@ -21,7 +21,7 @@ nav_order: 54
 
 > **Example#3.** “[…] can be downloaded from https://github.com/ehodneland/RadioGenomicsEC. The same repository also contains code for the training of the network, as well as for extraction and clustering of radiomic features.” [4] (from the article by  Hoivik  et al.; licensed under CC BY 4.0)
 
-### Explanation and elaboration of CLEAR item#3
+### Explanation and elaboration of CLEAR item#54
 
 Item#54 emphasizes the importance of open sharing of radiomics data. Any radiomics study should make the extracted features and any clinical variables available to the scientific community. Data sharing can help to generate larger datasets, thereby increasing the statistical power of analyses [5]. In addition, datasets of features obtained using the same extraction method can be merged to form larger datasets, ensuring anonymization of patients. The creation of radiomics biobanks would also be desirable in terms of linking with genetics or tissue biobanks [6]. However, a 2015 ESR survey showed that in 80% of the cases, access to these biobanks is restricted [7]. This may be due to compliance with regulatory restrictions, which vary from country to country. Transparency in the sharing of these data can facilitate collaboration, validation of results and the development of more robust predictive models.
 
