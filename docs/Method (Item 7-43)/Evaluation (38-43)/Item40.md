@@ -32,5 +32,5 @@ A thorough description of uncertainty evaluation is crucial to validate the reli
 4. 	Park JE, Park SY, Kim HJ, Kim HS (2019) Reproducibility and Generalizability in Radiomics Modeling: Possible Strategies in Radiologic and Statistical Perspectives. Korean J Radiol 20:1124–1137. https://doi.org/10.3348/kjr.2018.0070
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Evaluation%20(38-43)/Item39.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Evaluation%20(38-43)/Item41.html){: .btn .btn-purple   }

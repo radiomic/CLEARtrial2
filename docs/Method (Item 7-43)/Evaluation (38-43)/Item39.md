@@ -40,5 +40,5 @@ A multitude of performance metrics can be calculated and reported for various ta
 6. 	García V, Mollineda RA, Sánchez JS (2010) Theoretical Analysis of a Performance Measure for Imbalanced Data. In: 2010 20th International Conference on Pattern Recognition. pp 617–620
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Evaluation%20(38-43)/Item38.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Evaluation%20(38-43)/Item40.html){: .btn .btn-purple   }
