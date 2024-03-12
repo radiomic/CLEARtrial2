@@ -5,6 +5,8 @@ nav_order: 1
 
 ---
 
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark mode'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light mode'; } }); </script>
+
 ![Logo1](/CLEAR-E3/assets/images/logo.png)
 
 ## Welcome to CLEAR-E3!
