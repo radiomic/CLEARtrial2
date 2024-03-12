@@ -25,4 +25,4 @@ We have invested a lot of time and effort in creating CLEAR-E3. If you publish a
 
 Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative.
 
-[Go to items](https://radiomic.github.io/CLEAR-E3/docs/Item1.html){: .btn .btn-purple }
+[Go to items](https://radiomic.github.io/CLEAR-E3/docs/Title%20(Item%201)/Item1.html){: .btn .btn-purple }
