@@ -37,5 +37,5 @@ Item#55 highlights the importance of sharing preprocessing scripts or settings. 
 6. 	Moradmand H, Aghamiri SMR, Ghaderi R (2020) Impact of image preprocessing methods on reproducibility of radiomic features in multimodal magnetic resonance imaging in glioblastoma. J Appl Clin Med Phys 21:179–190. https://doi.org/10.1002/acm2.12795
 7. 	Dewi DEO, Sunoqrot MRS, Nketiah GA, et al (2023) The impact of pre-processing and disease characteristics on reproducibility of T2-weighted MRI radiomics features. Magn Reson Mater Phys Biol Med 36:945–956. https://doi.org/10.1007/s10334-023-01112-z
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Data%20availability%20(53-54)/Item54.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Code%20availability%20(55-56)/Item56.html){: .btn .btn-purple   }

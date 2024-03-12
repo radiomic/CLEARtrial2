@@ -37,5 +37,5 @@ Item#54 emphasizes the importance of open sharing of radiomics data. Any radiomi
 6. 	Coppola L, Cianflone A, Grimaldi AM, et al (2019) Biobanking in health care: evolution and future directions. J Transl Med 17:172. https://doi.org/10.1186/s12967-019-1922-3
 7. 	European Society of Radiology (ESR) (2015) ESR Position Paper on Imaging Biobanks. Insights Imaging 6:403–410. https://doi.org/10.1007/s13244-015-0409-x
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Data%20availability%20(53-54)/Item53.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Code%20availability%20(55-56)/Item55.html){: .btn .btn-purple   }

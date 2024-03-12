@@ -35,5 +35,5 @@ Item #56 in the CLEAR checklist underscores the importance of sharing source cod
 4. 	Li M, Qin H, Yu X, et al (2023) Preoperative prediction of Lauren classification in gastric cancer: a radiomics model based on dual-energy CT iodine map. Insights Imaging 14:125. [https://doi.org/10.1186/s13244-023-01477-8](https://doi.org/10.1186/s13244-023-01477-8)
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Code%20availability%20(55-56)/Item55.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Model%20availability%20(57-58)/Item57.html){: .btn .btn-purple   }

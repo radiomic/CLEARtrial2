@@ -37,5 +37,5 @@ This is the first item of the Open Science section from CLEAR, which overall aim
 6. 	Venkatesh K, Santomartino SM, Sulam J, Yi PH (2022) Code and Data Sharing Practices in the Radiology Artificial                     Intelligence Literature: A Meta-Research Study. Radiol Artif Intell 4:e220081. https://doi.org/10.1148/ryai.220081
 7. 	Locher C, Le Goff G, Le Louarn A, et al (2023) Making data sharing the norm in medical research. BMJ 382:1434. https://doi.org/10.1136/bmj.p1434
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Discussion%20(Item%2049-52)/Item52.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Open%20Science%20(Item%2053-58)/Data%20availability%20(53-54)/Item54.html){: .btn .btn-purple   }
