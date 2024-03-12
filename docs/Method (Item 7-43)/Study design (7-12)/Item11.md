@@ -28,9 +28,10 @@ Ensuring the integrity and reproducibility of a study begins with the precise de
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Cousin F, Louis T, Dheur S, et al (2023) Radiomics and Delta-Radiomics Signatures to Predict Response and Survival in Patients with Non-Small-Cell Lung Cancer Treated with Immune Checkpoint Inhibitors. Cancers 15:1968. [https://doi.org/10.3390/cancers15071968](https://doi.org/10.3390/cancers15071968)
-3. 	Ren H, Song H, Wang J, et al (2023) A clinical–radiomics model based on noncontrast computed tomography to predict hemorrhagic transformation after stroke by machine learning: a multicenter study. Insights Imaging 14:52. [https://doi.org/10.1186/s13244-023-01399-5](https://doi.org/10.1186/s13244-023-01399-5)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Cousin F, Louis T, Dheur S, et al (2023) Radiomics and Delta-Radiomics Signatures to Predict Response and Survival in Patients with Non-Small-Cell Lung Cancer Treated with Immune Checkpoint Inhibitors. Cancers 15:1968. https://doi.org/10.3390/cancers15071968
+3. 	Ren H, Song H, Wang J, et al (2023) A clinical–radiomics model based on noncontrast computed tomography to predict hemorrhagic transformation after stroke by machine learning: a multicenter study. Insights Imaging 14:52. https://doi.org/10.1186/s13244-023-01399-5
+
 
 
 

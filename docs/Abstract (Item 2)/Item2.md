@@ -25,11 +25,12 @@ The abstract is one of the most crucial parts of the paper. This short text must
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wu G, Woodruff HC, Shen J, et al (2020) Diagnosis of Invasive Lung Adenocarcinoma Based on Chest CT Radiomic                    Features of Part-Solid Pulmonary Nodules: A Multicenter Study. Radiology 297:451–458. [https://doi.org/10.1148/radiol.2020192431](https://doi.org/10.1148/radiol.2020192431)
-3.  Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol 31:7575–7583. [https://doi.org/10.1007/s00330-021-07856-3](https://doi.org/10.1007/s00330-021-07856-3)
-4.  Cals JWL, Kotz D (2013) Effective writing and publishing scientific papers, part II: title and abstract. J Clin Epidemiol 66:585. [https://doi.org/10.1016/j.jclinepi.2013.01.005](https://doi.org/10.1016/j.jclinepi.2013.01.005)
-5.  Beller EM, Glasziou PP, Altman DG, et al (2013) PRISMA for Abstracts: Reporting Systematic Reviews in Journal and Conference Abstracts. PLoS Med 10:e1001419. [https://doi.org/10.1371/journal.pmed.1001419](https://doi.org/10.1371/journal.pmed.1001419)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Wu G, Woodruff HC, Shen J, et al (2020) Diagnosis of Invasive Lung Adenocarcinoma Based on Chest CT Radiomic                    Features of Part-Solid Pulmonary Nodules: A Multicenter Study. Radiology 297:451–458. https://doi.org/10.1148/radiol.2020192431
+3. 	Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol 31:7575–7583. https://doi.org/10.1007/s00330-021-07856-3
+4. 	Cals JWL, Kotz D (2013) Effective writing and publishing scientific papers, part II: title and abstract. J Clin Epidemiol 66:585. https://doi.org/10.1016/j.jclinepi.2013.01.005
+5. 	Beller EM, Glasziou PP, Altman DG, et al (2013) PRISMA for Abstracts: Reporting Systematic Reviews in Journal and Conference Abstracts. PLoS Med 10:e1001419. https://doi.org/10.1371/journal.pmed.1001419
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Title%20(Item%201)/Item1.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Keywords%20(Item%203)/Item3.html){: .btn .btn-purple   }

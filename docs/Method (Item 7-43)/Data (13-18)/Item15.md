@@ -34,12 +34,14 @@ The generalizability of a radiomics model, indicating its ability to maintain pe
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	von Schacky CE, Wilhelm NJ, Schäfer VS, et al (2022) Development and evaluation of machine learning models based on X-ray radiomics for the classification and differentiation of malignant and benign bone tumors. Eur Radiol 32:6247–6257. [https://doi.org/10.1007/s00330-022-08764-w](https://doi.org/10.1007/s00330-022-08764-w)
-3. 	Ren H, Song H, Wang J, et al (2023) A clinical–radiomics model based on noncontrast computed tomography to predict hemorrhagic transformation after stroke by machine learning: a multicenter study. Insights Imaging 14:52. [https://doi.org/10.1186/s13244-023-01399-5](https://doi.org/10.1186/s13244-023-01399-5)
-4. 	Hinzpeter R, Baumann L, Guggenberger R, et al (2022) Radiomics for detecting prostate cancer bone metastases invisible in CT: a proof-of-concept study. Eur Radiol 32:1823–1832. [https://doi.org/10.1007/s00330-021-08245-6](https://doi.org/10.1007/s00330-021-08245-6)
-5. 	Mora NGN, Akkurt BH, Kasap D, et al (2023) Comparison of MRI Sequences to Predict ATRX Status Using Radiomics-Based Machine Learning. Diagnostics 13:2216. [https://doi.org/10.3390/diagnostics13132216](https://doi.org/10.3390/diagnostics13132216)
-6. 	Futoma J, Simons M, Panch T, et al (2020) The myth of generalisability in clinical research and machine learning in health care. Lancet Digit Health 2:e489–e492. [https://doi.org/10.1016/S2589-7500(20)30186-2](https://doi.org/10.1016/S2589-7500(20)30186-2)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	von Schacky CE, Wilhelm NJ, Schäfer VS, et al (2022) Development and evaluation of machine learning models based on X-ray radiomics for the classification and differentiation of malignant and benign bone tumors. Eur Radiol 32:6247–6257. https://doi.org/10.1007/s00330-022-08764-w
+3. 	Ren H, Song H, Wang J, et al (2023) A clinical–radiomics model based on noncontrast computed tomography to predict hemorrhagic transformation after stroke by machine learning: a multicenter study. Insights Imaging 14:52. https://doi.org/10.1186/s13244-023-01399-5
+4. 	Hinzpeter R, Baumann L, Guggenberger R, et al (2022) Radiomics for detecting prostate cancer bone metastases invisible in CT: a proof-of-concept study. Eur Radiol 32:1823–1832. https://doi.org/10.1007/s00330-021-08245-6
+5. 	Nacul Mora NG, Akkurt BH, Kasap D, et al (2023) Comparison of MRI Sequences to Predict ATRX Status Using Radiomics-Based Machine Learning. Diagnostics 13:2216. https://doi.org/10.3390/diagnostics13132216
+6. 	Futoma J, Simons M, Panch T, et al (2020) The myth of generalisability in clinical research and machine learning in health care. Lancet Digit Health 2:e489–e492. https://doi.org/10.1016/S2589-7500(20)30186-2
+
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item14.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item16.html){: .btn .btn-purple   }

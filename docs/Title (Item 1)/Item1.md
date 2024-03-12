@@ -25,10 +25,10 @@ Item#1 stresses the significance of properly drafting a title that explains the 
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Sushentsev N, Rundo L, Blyuss O, et al (2022) Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance. Eur Radiol 32:680–689. [https://doi.org/10.1007/s00330-021-08151-x](https://doi.org/10.1007/s00330-021-08151-x)
-3. 	Gu W, Chen Y, Zhu H, et al (2023) Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study. eClinicalMedicine 65:. [https://doi.org/10.1016/j.eclinm.2023.102269](https://doi.org/10.1016/j.eclinm.2023.102269)
-4. 	Kocak B, Bulut E, Bayrak ON, et al (2023) NEgatiVE results in Radiomics research (NEVER): A meta-research study of publication bias in leading radiology journals. Eur J Radiol 163:110830. [https://doi.org/10.1016/j.ejrad.2023.110830](https://doi.org/10.1016/j.ejrad.2023.110830)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Sushentsev N, Rundo L, Blyuss O, et al (2022) Comparative performance of MRI-derived PRECISE scores and delta-radiomics models for the prediction of prostate cancer progression in patients on active surveillance. Eur Radiol 32:680–689. https://doi.org/10.1007/s00330-021-08151-x
+3. 	Gu W, Chen Y, Zhu H, et al (2023) Development and validation of CT-based radiomics deep learning signatures to predict lymph node metastasis in non-functional pancreatic neuroendocrine tumors: a multicohort study. eClinicalMedicine 65:. https://doi.org/10.1016/j.eclinm.2023.102269
+4. 	Kocak B, Bulut E, Bayrak ON, et al (2023) NEgatiVE results in Radiomics research (NEVER): A meta-research study of publication bias in leading radiology journals. Eur J Radiol 163:110830. https://doi.org/10.1016/j.ejrad.2023.110830
 
 [Back](https://radiomic.github.io/CLEAR-E3/){: .btn .btn-purple  .mr-5  }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Abstract%20(Item%202)/Item2.html){: .btn .btn-purple   }

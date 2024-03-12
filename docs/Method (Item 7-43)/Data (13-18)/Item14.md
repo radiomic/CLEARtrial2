@@ -30,15 +30,17 @@ Declaring the presence or not of datasets overlap in radiomics publication is im
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Keek SA, Wesseling FWR, Woodruff HC, et al (2021) A Prospectively Validated Prognostic Model for Patients with Locally Advanced Squamous Cell Carcinoma of the Head and Neck Based on Radiomics of Computed Tomography Images. Cancers 13:3271. [https://doi.org/10.3390/cancers13133271](https://doi.org/10.3390/cancers13133271)
-3. 	Han X, Cao W, Wu L, Liang C (2022) Radiomics Assessment of the Tumor Immune Microenvironment to Predict Outcomes in Breast Cancer. Front Immunol 12: [https://doi.org/10.3389/fimmu.2021.773581](https://doi.org/10.3389/fimmu.2021.773581)
-4. 	Nenning K-H, Gesperger J, Furtner J, et al (2023) Radiomic features define risk and are linked to DNA methylation attributes in primary CNS lymphoma. Neuro-Oncol Adv 5:vdad136. [https://doi.org/10.1093/noajnl/vdad136](https://doi.org/10.1093/noajnl/vdad136)
-5. 	Marturano F, Guglielmo P, Bettinelli A, et al (2023) Role of radiomic analysis of [18F]fluoromethylcholine PET/CT in predicting biochemical recurrence in a cohort of intermediate and high risk prostate cancer patients at initial staging. Eur Radiol 33:7199–7208. [https://doi.org/10.1007/s00330-023-09642-9](https://doi.org/10.1007/s00330-023-09642-9)
-6. 	Moskowitz CS, Welch ML, Jacobs MA, et al (2022) Radiomic Analysis: Study Design, Statistical Analysis, and Other Bias                     Mitigation Strategies. Radiology 304:265–273. [https://doi.org/10.1148/radiol.211597](https://doi.org/10.1148/radiol.211597)
-7. 	Priestley M, O’donnell F, Simperl E (2023) A Survey of Data Quality Requirements That Matter in ML Development Pipelines. J Data Inf Qual 15:11:1-11:39. [https://doi.org/10.1145/3592616](https://doi.org/10.1145/3592616)
-8. 	Chen H, Chen J, Ding J (2021) Data Evaluation and Enhancement for Quality Improvement of Machine Learning. IEEE Trans Reliab 70:831–847. [https://doi.org/10.1109/TR.2021.3070863](https://doi.org/10.1109/TR.2021.3070863)
-9. 	Park JE, Park SY, Kim HJ, Kim HS (2019) Reproducibility and Generalizability in Radiomics Modeling: Possible Strategies in Radiologic and Statistical Perspectives. Korean J Radiol 20:1124–1137. [https://doi.org/10.3348/kjr.2018.0070](https://doi.org/10.3348/kjr.2018.0070)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Keek SA, Wesseling FWR, Woodruff HC, et al (2021) A Prospectively Validated Prognostic Model for Patients with Locally Advanced Squamous Cell Carcinoma of the Head and Neck Based on Radiomics of Computed Tomography Images. Cancers 13:3271. https://doi.org/10.3390/cancers13133271
+3. 	Han X, Cao W, Wu L, Liang C (2022) Radiomics Assessment of the Tumor Immune Microenvironment to Predict Outcomes in Breast Cancer. Front Immunol 12:
+4. 	Nenning K-H, Gesperger J, Furtner J, et al (2023) Radiomic features define risk and are linked to DNA methylation attributes in primary CNS lymphoma. Neuro-Oncol Adv 5:vdad136. https://doi.org/10.1093/noajnl/vdad136
+5. 	Marturano F, Guglielmo P, Bettinelli A, et al (2023) Role of radiomic analysis of [18F]fluoromethylcholine PET/CT in predicting biochemical recurrence in a cohort of intermediate and high risk prostate cancer patients at initial staging. Eur Radiol 33:7199–7208. https://doi.org/10.1007/s00330-023-09642-9
+6. 	Moskowitz CS, Welch ML, Jacobs MA, et al (2022) Radiomic Analysis: Study Design, Statistical Analysis, and Other Bias                     Mitigation Strategies. Radiology 304:265–273. https://doi.org/10.1148/radiol.211597
+7. 	Priestley M, O’donnell F, Simperl E (2023) A Survey of Data Quality Requirements That Matter in ML Development Pipelines. J Data Inf Qual 15:11:1-11:39. https://doi.org/10.1145/3592616
+8. 	Chen H, Chen J, Ding J (2021) Data Evaluation and Enhancement for Quality Improvement of Machine Learning. IEEE Trans Reliab 70:831–847. https://doi.org/10.1109/TR.2021.3070863
+9. 	Park JE, Park SY, Kim HJ, Kim HS (2019) Reproducibility and Generalizability in Radiomics Modeling: Possible Strategies in Radiologic and Statistical Perspectives. Korean J Radiol 20:1124–1137. https://doi.org/10.3348/kjr.2018.0070
+
+
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item13.html){: .btn .btn-purple .mr-5 }

@@ -30,10 +30,12 @@ Item#8 addresses the ethical aspects of a study, focusing on ethical approval, i
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Bartels HC, O’Doherty J, Wolsztynski E, et al (2023) Radiomics-based prediction of FIGO grade for placenta accreta spectrum. Eur Radiol Exp 7:54. [https://doi.org/10.1186/s41747-023-00369-2](https://doi.org/10.1186/s41747-023-00369-2)
-3. 	Zorzi G, Berta L, Rizzetto F, et al (2023) Artificial intelligence for differentiating COVID-19 from other viral pneumonias on CT: comparative analysis of different models based on quantitative and radiomic approaches. Eur Radiol Exp 7:3. [https://doi.org/10.1186/s41747-022-00317-6](https://doi.org/10.1186/s41747-022-00317-6)
-4. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. [https://doi.org/10.1186/s13244-022-01349-7](https://doi.org/10.1186/s13244-022-01349-7)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Bartels HC, O’Doherty J, Wolsztynski E, et al (2023) Radiomics-based prediction of FIGO grade for placenta accreta spectrum. Eur Radiol Exp 7:54. https://doi.org/10.1186/s41747-023-00369-2
+3. 	Zorzi G, Berta L, Rizzetto F, et al (2023) Artificial intelligence for differentiating COVID-19 from other viral pneumonias on CT: comparative analysis of different models based on quantitative and radiomic approaches. Eur Radiol Exp 7:3. https://doi.org/10.1186/s41747-022-00317-6
+4. 	He Q-H, Feng J-J, Lv F-J, et al (2023) Deep learning and radiomic feature-based blending ensemble classifier for malignancy risk prediction in cystic renal lesions. Insights Imaging 14:6. https://doi.org/10.1186/s13244-022-01349-7
+
+
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item7.html){: .btn .btn-purple .mr-5 }

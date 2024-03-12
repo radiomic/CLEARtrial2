@@ -29,11 +29,13 @@ Providing study´s nature such as retrospective (see Example#1), prospective (se
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wei J, Yang G, Hao X, et al (2019) A multi-sequence and habitat-based MRI radiomics signature for preoperative prediction of MGMT promoter methylation in astrocytomas with prognostic implication. Eur Radiol 29:877–888. [https://doi.org/10.1007/s00330-018-5575-z](https://doi.org/10.1007/s00330-018-5575-z)
-3. 	Wang K, Lu X, Zhou H, et al (2019) Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study. Gut 68:729–741. [https://doi.org/10.1136/gutjnl-2018-316204](https://doi.org/10.1136/gutjnl-2018-316204)
-4. 	Shang J, Ma S, Guo Y, et al (2022) Prediction of acute coronary syndrome within 3 years using radiomics signature of pericoronary adipose tissue based on coronary computed tomography angiography. Eur Radiol 32:1256–1266. [https://doi.org/10.1007/s00330-021-08109-z](https://doi.org/10.1007/s00330-021-08109-z)
-5. 	Mann CJ (2003) Observational research methods. Research design II: cohort, cross sectional, and case-control studies. Emerg Med J EMJ 20:54–60. [https://doi.org/10.1136/emj.20.1.54](https://doi.org/10.1136/emj.20.1.54)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Wei J, Yang G, Hao X, et al (2019) A multi-sequence and habitat-based MRI radiomics signature for preoperative prediction of MGMT promoter methylation in astrocytomas with prognostic implication. Eur Radiol 29:877–888. https://doi.org/10.1007/s00330-018-5575-z
+3. 	Wang K, Lu X, Zhou H, et al (2019) Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study. Gut 68:729–741. https://doi.org/10.1136/gutjnl-2018-316204
+4. 	Shang J, Ma S, Guo Y, et al (2022) Prediction of acute coronary syndrome within 3 years using radiomics signature of pericoronary adipose tissue based on coronary computed tomography angiography. Eur Radiol 32:1256–1266. https://doi.org/10.1007/s00330-021-08109-z
+5. 	Mann CJ (2003) Observational research methods. Research design II: cohort, cross sectional, and case-control studies. Emerg Med J EMJ 20:54–60. https://doi.org/10.1136/emj.20.1.54
+
+
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Study%20design%20(7-12)/Item9.html){: .btn .btn-purple .mr-5 }
