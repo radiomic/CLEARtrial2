@@ -14,9 +14,9 @@ nav_order: 40
 
 ### Reporting examples for CLEAR item#40
 
-> **Example#1.** “To assess predictive performance, we measured the area under the receiver operating curve (AUC). Additionally, we computed precision-recall AUC (PR AUC), accuracy, sensitivity, specificity, the F1 score, the negative predictive value (NPV), and the positive predictive value (PPV). Bootstrapping with 1000 samples was performed to compute 95% confidence intervals for all the evaluation metrics.” [2] (from the article by Bodalal et al.; licensed under CC BY 4.0)
+> **Example#1.** “To assess predictive performance, we measured the area under the receiver operating curve (AUC). Additionally, we computed precision-recall AUC (PR AUC), accuracy, sensitivity, specificity, the F1 score, the negative predictive value (NPV), and the positive predictive value (PPV). Bootstrapping with 1000 samples was performed to compute 95% confidence intervals for all the evaluation metrics.” [2] (from [the article by Bodalal et al.](https://doi.org/10.1186/s13244-023-01474-x); licensed under CC BY 4.0)
 
-> **Example#2.** “Calibration for the prediction of tumour response to nCRT and FFDM was assessed via the Hosmer–Lemeshow goodness of fit test (HL test) and Greenwood Nam d’Agostino test (GND test), respectively.” [3] (from the article by Shahzadi et al.; licensed under CC BY 4.0)
+> **Example#2.** “Calibration for the prediction of tumour response to nCRT and FFDM was assessed via the Hosmer–Lemeshow goodness of fit test (HL test) and Greenwood Nam d’Agostino test (GND test), respectively.” [3] (from [the article by Shahzadi et al.](https://doi.org/10.1038/s41598-022-13967-8); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#40
 

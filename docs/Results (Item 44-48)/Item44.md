@@ -13,11 +13,11 @@ nav_order: 44
 
 ### Reporting examples for CLEAR item#44
 
-> **Example#1.** “A total of 150 patients with CKD were identified in Table 1” [2] (from the article by Ge et al.; licensed under CC BY 4.0)
+> **Example#1.** “A total of 150 patients with CKD were identified in Table 1” [2] (from [the article by Ge et al.](https://doi.org/10.1007/s00330-022-09268-3); licensed under CC BY 4.0)
 >
 > ![Fig1](/CLEAR-E3/figs/Item44_example1.png)
 
-> **Example#2.** “Table 1 shows the detailed demographic information of the participants” [3] (from the article by Wu et al.; licensed under CC BY 4.0)
+> **Example#2.** “Table 1 shows the detailed demographic information of the participants” [3] (from [the article by Wu et al.](https://doi.org/10.1186/s13244-022-01292-7); licensed under CC BY 4.0)
 >
 > ![Fig2](/CLEAR-E3/figs/Item44_example2.png)
 

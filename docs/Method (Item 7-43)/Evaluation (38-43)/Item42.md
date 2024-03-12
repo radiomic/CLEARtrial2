@@ -14,9 +14,9 @@ nav_order: 42
 
 ### Reporting examples for CLEAR item#42
 
-> **Example#1.** “To achieve a holistic information-gathered network, we generated a comprehensive model including the fusion radiomics signature, the selected clinical factor (oedema degree), and two ADC values (the tumour and oedema areas). […] We chose decision curve analysis (DCA) to estimate the clinical usefulness of the developed fusion radiomics signature and used the Delong test to explore whether the fusion radiomics signature performed better than the traditional clinical model and ADC parameter.” [2] (from the article by Wei et al.; licensed under CC BY 4.0)
+> **Example#1.** “To achieve a holistic information-gathered network, we generated a comprehensive model including the fusion radiomics signature, the selected clinical factor (oedema degree), and two ADC values (the tumour and oedema areas). […] We chose decision curve analysis (DCA) to estimate the clinical usefulness of the developed fusion radiomics signature and used the Delong test to explore whether the fusion radiomics signature performed better than the traditional clinical model and ADC parameter.” [2] (from [the article by Wei et al.](https://doi.org/10.1007/s00330-018-5575-z); licensed under CC BY 4.0)
 
-> **Example#2.** “Moreover, the two classifiers were built, including patient’s age and sex along with the selected radiomic features, to verify if their contribution improves the classification performance.” [3] (from the article by Doniselli et al.; licensed under CC BY 4.0)
+> **Example#2.** “Moreover, the two classifiers were built, including patient’s age and sex along with the selected radiomic features, to verify if their contribution improves the classification performance.” [3] (from [the article by Doniselli et al.](https://doi.org/10.3390/ijms25010138); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#42
 
