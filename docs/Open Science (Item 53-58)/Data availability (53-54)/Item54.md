@@ -15,11 +15,11 @@ nav_order: 54
 
 ### Reporting examples for CLEAR item#54
 
-> **Example#1.** “The data and the R code that support the findings of this study are available at https://github.com/harveerar/SciRepEndometrial2020.” [2] (from the article by  Veeraraghavan et al.; licensed under CC BY 4.0)
+> **Example#1.** “The data and the R code that support the findings of this study are available at https://github.com/harveerar/SciRepEndometrial2020.” [2] (from [the article by  Veeraraghavan et al.](https://doi.org/10.1038/s41598-020-72475-9); licensed under CC BY 4.0)
 
-> **Example#2.** “All the data described here as the “UPenn-GBM” collection, are available from the publicly available repository of The Cancer Imaging Archive (TCIA) at: https://doi.org/10.7937/TCIA.709X-DN49. Data availability per subject can also be found and downloaded from the TCIA repository.” [3] (from the article by  Bakas et al.; licensed under CC BY 4.0)
+> **Example#2.** “All the data described here as the “UPenn-GBM” collection, are available from the publicly available repository of The Cancer Imaging Archive (TCIA) at: https://doi.org/10.7937/TCIA.709X-DN49. Data availability per subject can also be found and downloaded from the TCIA repository.” [3] (from [the article by  Bakas et al.](https://doi.org/10.1038/s41597-022-01560-7); licensed under CC BY 4.0)
 
-> **Example#3.** “[…] can be downloaded from https://github.com/ehodneland/RadioGenomicsEC. The same repository also contains code for the training of the network, as well as for extraction and clustering of radiomic features.” [4] (from the article by  Hoivik  et al.; licensed under CC BY 4.0)
+> **Example#3.** “[…] can be downloaded from https://github.com/ehodneland/RadioGenomicsEC. The same repository also contains code for the training of the network, as well as for extraction and clustering of radiomic features.” [4] (from [the article by  Hoivik  et al.](https://doi.org/10.1038/s42003-021-02894-5); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#54
 

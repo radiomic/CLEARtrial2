@@ -15,11 +15,11 @@ nav_order: 53
 
 ### Reporting examples for CLEAR item#53
 
-> **Example#1.** “The iCTCF dataset is publicly available and can be accessed at https://ngdc.cncb.ac.cn/ictcf/. The complete KRI dataset is available on request for research purposes in the frame of the BFS project AZ-1429-20C.” [2] (from the article by  Keicher et al.; licensed under CC BY 4.0)
+> **Example#1.** “The iCTCF dataset is publicly available and can be accessed at https://ngdc.cncb.ac.cn/ictcf/. The complete KRI dataset is available on request for research purposes in the frame of the BFS project AZ-1429-20C.” [2] (from [the article by  Keicher et al.](https://doi.org/10.1038/s41598-023-46625-8); licensed under CC BY 4.0)
 
-> **Example#2.** “Data reported in this study was not available due to the limitations set by Ethical committee.” [3] (from the article by Shu et al.; licensed under CC BY 4.0)
+> **Example#2.** “Data reported in this study was not available due to the limitations set by Ethical committee.” [3] (from [the article by Shu et al.](https://doi.org/10.1038/s41598-019-39651-y); licensed under CC BY 4.0)
 
-> **Example#3.** “The Lung2 dataset that support the findings of this study are available by request from the authors […]. This part of data are not publicly available due to the data containing information that could compromise research participant privacy.” [4] (from the article by Shi et al.; licensed under CC BY 4.0)
+> **Example#3.** “The Lung2 dataset that support the findings of this study are available by request from the authors […]. This part of data are not publicly available due to the data containing information that could compromise research participant privacy.” [4] (from [the article by Shi et al.](https://doi.org/10.1038/s41597-019-0241-0); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#53
 
