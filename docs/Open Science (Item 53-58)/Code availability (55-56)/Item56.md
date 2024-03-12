@@ -19,7 +19,7 @@ nav_order: 56
 
 > **Example#2.** “The used source codes are available at GitHub ([https://github.com/tt1107/wangradiology](https://github.com/tt1107/wangradiology)).” [3] (from [the article by Wang et al](https://doi.org/10.1148/radiol.2021210109); licensed under CC BY 4.0)
 
-> **Example#3.** “The script of the model development and validation is available at GitHub (https://github.com/xby947/RF-Model-development.git) to improve the reproducibility of this research.” [4] (from [the article by Li et al.](https://doi.org/10.1186/s13244-023-01477-8); licensed under CC BY 4.0)
+> **Example#3.** “The script of the model development and validation is available at GitHub ([https://github.com/xby947/RF-Model-development.git](https://github.com/xby947/RF-Model-development.git)) to improve the reproducibility of this research.” [4] (from [the article by Li et al.](https://doi.org/10.1186/s13244-023-01477-8); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#56
 
