@@ -14,10 +14,10 @@ nav_order: 48
 ### Reporting examples for CLEAR item#48
 
 > **Example#1.** See Table 3 and Table 4. 
-> "Table 3. Performance of the three prediction models." [2] (from [the article by Xiong et al.](https://doi.org/10.1371/journal.pone.0269356); licensed under CC BY 4.0)
+> "**Table 3.** Performance of the three prediction models." [2] (from [the article by Xiong et al.](https://doi.org/10.1371/journal.pone.0269356); licensed under CC BY 4.0)
 > ![Fig1](/CLEAR-E3/figs/Item48_example1_1.png)
 >
-> "Table 4. Performance of the three prediction models in the external validation cohort." [2] (from [the article by Xiong et al.](https://doi.org/10.1371/journal.pone.0269356); licensed under CC BY 4.0
+> "**Table 4.** Performance of the three prediction models in the external validation cohort." [2] (from [the article by Xiong et al.](https://doi.org/10.1371/journal.pone.0269356); licensed under CC BY 4.0
 > ![Fig1](/CLEAR-E3/figs/Item48_example1_2.png)
 
 > **Example#2.** “For the internal validation cohort, the AUC of combined model was significantly larger than that of clinical model (P < 0.05); however, no significant difference in the AUC was observed between combined and radiomics models (P > 0.05). For the external validation cohort, no significant differences in the AUC were observed among the three models (P > 0.05).” [3] (from [the article by Gong et al.](https://doi.org/10.1186/s12880-022-00822-5); licensed under CC BY 4.0)
@@ -25,10 +25,10 @@ nav_order: 48
 > **Example#3.** See Figure 5 and Figure 6. CT model stands for a model developed using the clinical and CT features as the input variables.
 >
 > ![Fig1](/CLEAR-E3/figs/Item48_example3_1.png)
-> Figure 5. “Confusion matrices of the models. SA: simple appendicitis, non-SA: nonsimple appendicitis. Confusion matrix displays the performance of the CT model (A), radiomics model (B), and the combined model (C). Among the 205 non-SA cases, the combined model detected 153 true positive cases, surpassing the CT model (142) and the radiomics model (145).” [4] (from [the article by Zhao et al.](https://doi.org/10.1038/s41598-024-52390-z); licensed under CC BY 4.0)
+> **Figure 5.** “Confusion matrices of the models. SA: simple appendicitis, non-SA: nonsimple appendicitis. Confusion matrix displays the performance of the CT model (A), radiomics model (B), and the combined model (C). Among the 205 non-SA cases, the combined model detected 153 true positive cases, surpassing the CT model (142) and the radiomics model (145).” [4] (from [the article by Zhao et al.](https://doi.org/10.1038/s41598-024-52390-z); licensed under CC BY 4.0)
 >
 > ![Fig1](/CLEAR-E3/figs/Item48_example3_2.png)
-> Figure 6. “Decision curve analysis of the models. At the threshold of 0.2, the standardized net benefit achieved 0.6 in the test cohort. The DCA curve of the combined model is superior to that of the CT model across the whole range of reasonable risk thresholds, which was set to 0.20–0.50 in this study.” [4] (from [the article by Zhao et al.](https://doi.org/10.1038/s41598-024-52390-z); licensed under CC BY 4.0)
+> **Figure 6.** “Decision curve analysis of the models. At the threshold of 0.2, the standardized net benefit achieved 0.6 in the test cohort. The DCA curve of the combined model is superior to that of the CT model across the whole range of reasonable risk thresholds, which was set to 0.20–0.50 in this study.” [4] (from [the article by Zhao et al.](https://doi.org/10.1038/s41598-024-52390-z); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#48
 
