@@ -25,9 +25,11 @@ To make the published work searchable, the keywords must highlight its most impo
 
 {: .fs-2 }
 
-1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. [https://doi.org/10.1186/s13244-023-01415-8](https://doi.org/10.1186/s13244-023-01415-8)
-2. 	Wang S, Zhu C, Jin Y, et al (2023) A multi-model based on radiogenomics and deep learning techniques associated with histological grade and survival in clear cell renal cell carcinoma. Insights Imaging 14:207. [https://doi.org/10.1186/s13244-023-01557-9](https://doi.org/10.1186/s13244-023-01557-9)
-3. 	Hirvasniemi J, Klein S, Bierma-Zeinstra S, et al (2021) A machine learning approach to distinguish between knees without and with osteoarthritis using MRI-based radiomic features from tibial bone. Eur Radiol 31:8513–8521. [https://doi.org/10.1007/s00330-021-07951-5](https://doi.org/10.1007/s00330-021-07951-5)
+1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
+2. 	Wang S, Zhu C, Jin Y, et al (2023) A multi-model based on radiogenomics and deep learning techniques associated with histological grade and survival in clear cell renal cell carcinoma. Insights Imaging 14:207. https://doi.org/10.1186/s13244-023-01557-9
+3. 	Hirvasniemi J, Klein S, Bierma-Zeinstra S, et al (2021) A machine learning approach to distinguish between knees without and with osteoarthritis using MRI-based radiomic features from tibial bone. Eur Radiol 31:8513–8521. https://doi.org/10.1007/s00330-021-07951-5
+
+
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Abstract%20(Item%202)/Item2.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Introduction%20(Item%204-6)/Item4.html){: .btn .btn-purple   }
