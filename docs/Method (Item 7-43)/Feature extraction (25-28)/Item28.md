@@ -32,5 +32,5 @@ After detailing the modified parameters for pre-processing and radiomic feature 
 4. 	Fave X, Zhang L, Yang J, et al (2016) Impact of image preprocessing on the volume dependence and prognostic potential of radiomics features in non-small cell lung cancer. Transl Cancer Res 5:. https://doi.org/10.21037/tcr.2016.07.11
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item27.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item29.html){: .btn .btn-purple   }

@@ -31,5 +31,5 @@ There is a vast array of radiomics features that can be extracted from a target 
 3. 	D’Amico NC, Grossi E, Valbusa G, et al (2020) A machine learning approach for differentiating malignant from benign enhancing foci on breast MRI. Eur Radiol Exp 4:5. https://doi.org/10.1186/s41747-019-0131-4
 4. 	Riley RD, Ensor J, Snell KIE, et al (2020) Calculating the sample size required for developing a clinical prediction model. BMJ 368:m441. https://doi.org/10.1136/bmj.m441
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item26.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item28.html){: .btn .btn-purple   }

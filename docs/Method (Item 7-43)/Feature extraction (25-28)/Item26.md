@@ -31,5 +31,5 @@ Item#26 is another important item in terms of reporting feature extraction setti
 3. 	Brown KH, Payan N, Osman S, et al (2023) Development and optimisation of a preclinical cone beam computed tomography-based radiomics workflow for radiation oncology research. Phys Imaging Radiat Oncol 26:. https://doi.org/10.1016/j.phro.2023.100446
 4. 	Zwanenburg A, Vallières M, Abdalah MA, et al (2020) The Image Biomarker Standardization Initiative: Standardized Quantitative Radiomics for High-Throughput Image-based Phenotyping. Radiology 295:328–338. https://doi.org/10.1148/radiol.2020191145
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item25.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item27.html){: .btn .btn-purple   }

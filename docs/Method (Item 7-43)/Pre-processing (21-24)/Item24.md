@@ -30,5 +30,5 @@ Radiomics features can be extracted from various types of images, each potential
 3. 	Tang VH, Duong STM, Nguyen CDT, et al (2023) Wavelet radiomics features from multiphase CT images for screening hepatocellular carcinoma: analysis and comparison. Sci Rep 13:19559. https://doi.org/10.1038/s41598-023-46695-8
 4. 	Depeursinge A, Andrearczyk V, Whybra P, et al (2023) Standardised convolutional filtering for radiomics. https://doi.org/10.48550/arXiv.2006.05470
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Pre-processing%20(21-24)/Item23.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item25.html){: .btn .btn-purple   }

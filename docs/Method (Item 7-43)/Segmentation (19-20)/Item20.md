@@ -37,5 +37,5 @@ In Item#20, the disclosure of operator experience and the process of achieving f
 5. 	Wu H, Luo B, Zhao Y, et al (2022) Radiomics analysis of the optic nerve for detecting dysthyroid optic neuropathy, based on water-fat imaging. Insights Imaging 13:154. https://doi.org/10.1186/s13244-022-01292-7
 6. 	Kocak B, Yardimci AH, Nazli MA, et al (2023) REliability of consensus-based segMentatIoN in raDiomic feature reproducibility (REMIND): A word of caution. Eur J Radiol 165:110893. https://doi.org/10.1016/j.ejrad.2023.110893
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Segmentation%20(19-20)/Item19.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Pre-processing%20(21-24)/Item21.html){: .btn .btn-purple   }

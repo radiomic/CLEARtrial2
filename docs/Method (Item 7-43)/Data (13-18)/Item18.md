@@ -34,4 +34,4 @@ The reference standard, or more specifically, the outcome variable that the radi
 4. 	Fusco R, Granata V, Maio F, et al (2020) Textural radiomic features and time-intensity curve data analysis by dynamic contrast-enhanced MRI for early prediction of breast cancer therapy response: preliminary data. Eur Radiol Exp 4:8. https://doi.org/10.1186/s41747-019-0141-2
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item17.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Segmentation%20(19-20)/Item19.html){: .btn .btn-purple   }

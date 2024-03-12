@@ -35,5 +35,5 @@ When working with machine learning techniques, it is important that the differen
 5. 	Fernandez A, Garcia S, Herrera F, Chawla NV (2018) SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary. J Artif Intell Res 61:863–905. https://doi.org/10.1613/jair.1.11192
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item29.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item31.html){: .btn .btn-purple   }

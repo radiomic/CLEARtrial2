@@ -32,5 +32,5 @@ Radiomics analysis yields many extracted features from each segmentation. A larg
 4. 	Wagner MW, Namdar K, Biswas A, et al (2021) Radiomics, machine learning, and artificial intelligence-what the neuroradiologist needs to know. Neuroradiology 63:1957–1967. https://doi.org/10.1007/s00234-021-02813-9
 5. 	Gillies RJ, Kinahan PE, Hricak H (2016) Radiomics: Images Are More than Pictures, They Are Data. Radiology 278:563–577. https://doi.org/10.1148/radiol.2015151169
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item32.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Modeling%20(34-37)/Item34.html){: .btn .btn-purple   }

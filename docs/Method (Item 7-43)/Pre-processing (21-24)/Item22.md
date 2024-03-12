@@ -38,5 +38,5 @@ Item#22 emphasizes the importance of transparently reporting resampling methods 
 8. 	Kocak B, Yuzkan S, Mutlu S, et al (2023) Publications poorly report the essential RadiOmics ParametERs (PROPER): A meta-research on quality of reporting. Eur J Radiol 167:111088. https://doi.org/10.1016/j.ejrad.2023.111088
 9. 	Koçak B, Yüzkan S, Mutlu S, et al (2023) Influence of image preprocessing on the segmentation-based reproducibility of radiomic features: in vivo experiments on discretization and resampling parameters. Diagn Interv Radiol Ank Turk. https://doi.org/10.4274/dir.2023.232543
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Pre-processing%20(21-24)/Item21.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Pre-processing%20(21-24)/Item23.html){: .btn .btn-purple   }

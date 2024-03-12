@@ -36,5 +36,5 @@ Item#32 of the CLEAR checklist focuses on the detailing of feature scaling techn
 5. 	Demircioğlu A (2024) The effect of feature normalization methods in radiomics. Insights Imaging 15:2. https://doi.org/10.1186/s13244-023-01575-7
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item31.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item33.html){: .btn .btn-purple   }

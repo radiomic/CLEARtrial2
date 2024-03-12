@@ -42,5 +42,5 @@ Item#37 addresses the critical aspect of model selection strategy. Authors are a
 8. 	Hastie T, Tibshirani R, Friedman J (2009) The Elements of Statistical Learning. Springer, New York, NY
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Modeling%20(34-37)/Item36.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }

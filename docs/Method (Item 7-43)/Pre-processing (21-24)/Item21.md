@@ -33,5 +33,5 @@ Item#21 focuses on the pre-processing radiomics workflow. Radiomics features are
 6. 	Liu X, Elbanan MG, Luna A, et al (2022) Radiomics in Abdominopelvic Solid-Organ Oncologic Imaging: Current Status. AJR Am J Roentgenol 219:985–995. https://doi.org/10.2214/AJR.22.27695
 7. 	Wagner MW, Namdar K, Biswas A, et al (2021) Radiomics, machine learning, and artificial intelligence-what the neuroradiologist needs to know. Neuroradiology 63:1957–1967. https://doi.org/10.1007/s00234-021-02813-9
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Segmentation%20(19-20)/Item20.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Pre-processing%20(21-24)/Item22.html){: .btn .btn-purple   }

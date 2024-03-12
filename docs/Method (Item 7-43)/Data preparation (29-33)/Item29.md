@@ -32,5 +32,5 @@ Addressing missing values involves acknowledging the potential occurrence of dat
 4. 	Stanzione A, Cuocolo R, Ugga L, et al (2022) Oncologic Imaging and Radiomics: A Walkthrough Review of Methodological Challenges. Cancers 14:4871. https://doi.org/10.3390/cancers14194871
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Feature%20extraction%20(25-28)/Item28.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20preparation%20(29-33)/Item30.html){: .btn .btn-purple   }
