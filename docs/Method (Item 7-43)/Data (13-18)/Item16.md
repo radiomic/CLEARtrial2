@@ -32,5 +32,5 @@ Developing a comprehensive imaging protocol and detailing acquisition parameters
 4. 	Papp L, Rausch I, Grahovac M, et al (2019) Optimized Feature Extraction for Radiomics Analysis of 18F-FDG PET Imaging. J Nucl Med Off Publ Soc Nucl Med 60:864–872. https://doi.org/10.2967/jnumed.118.217612
 5. 	Mackin D, Fave X, Zhang L, et al (2015) Measuring Computed Tomography Scanner Variability of Radiomics Features. Invest Radiol 50:757–765. https://doi.org/10.1097/RLI.0000000000000180
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item15.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item17.html){: .btn .btn-purple   }

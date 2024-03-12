@@ -33,5 +33,5 @@ As previously recommended in a seminal paper from Lambin et al. published back i
 5. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging. https://doi.org/10.1186/s13244-023-01572-w
 
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item16.html){: .btn .btn-purple .mr-5 }
+[Next](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item18.html){: .btn .btn-purple   }

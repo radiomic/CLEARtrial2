@@ -34,5 +34,5 @@ The significance of reporting the segmentation strategy is emphasized in Item#19
 4. 	Wang H, Xie M, Chen X, et al (2023) Radiomics analysis of contrast-enhanced computed tomography in predicting the International Neuroblastoma Pathology Classification in neuroblastoma. Insights Imaging 14:106. https://doi.org/10.1186/s13244-023-01418-5
 5. 	Poirot MG, Caan MWA, Ruhe HG, et al (2022) Robustness of radiomics to variations in segmentation methods in multimodal brain MRI. Sci Rep 12:16712. https://doi.org/10.1038/s41598-022-20703-9
 
-[Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
+[Back](https://radiomic.github.io/CLEAR-E3/docs/Method%20(Item%207-43)/Data%20(13-18)/Item18.html){: .btn .btn-purple .mr-5 }
 [Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
