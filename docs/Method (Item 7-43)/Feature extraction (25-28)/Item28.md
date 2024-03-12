@@ -14,9 +14,9 @@ nav_order: 28
 
 ### Reporting examples for CLEAR item#28
 
-> **Example#1.** “After providing all modified parameters of pre-processing and radiomic feature extraction, all other parameters remained as a default configuration.” [2] (from the article by Jo et al.; licensed under CC BY 4.0)
+> **Example#1.** “After providing all modified parameters of pre-processing and radiomic feature extraction, all other parameters remained as a default configuration.” [2] (from [the article by Jo et al.](https://doi.org/10.1186/s12880-023-01116-0); licensed under CC BY 4.0)
 
-> **Example#2.** “Radiomics features parameters were set to their default values.” [3] (from the article by Flouris et al.; licensed under CC BY 4.0)
+> **Example#2.** “Radiomics features parameters were set to their default values.” [3] (from [the article by Flouris et al.](https://doi.org/10.1038/s41598-022-08301-1); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#28
 

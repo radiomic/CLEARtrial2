@@ -14,9 +14,9 @@ nav_order: 29
 
 ### Reporting examples for CLEAR item#29
 
-> **Example#1.** “This study deleted categories with missing values greater than 25%, and MICEforest multiple interpolation methods were used to fill the missing values. […] The items and proportions of missing data that were ultimately included in the study and subjected to multiple imputations using the MICEforest method are shown in Figure 5.” [2] (from the article by Lin et al.; licensed under CC BY 4.0)
+> **Example#1.** “This study deleted categories with missing values greater than 25%, and MICEforest multiple interpolation methods were used to fill the missing values. […] The items and proportions of missing data that were ultimately included in the study and subjected to multiple imputations using the MICEforest method are shown in Figure 5.” [2] (from [the article by Lin et al.](https://doi.org/10.3389/fonc.2022.937277); licensed under CC BY 4.0)
 
-> **Example#2.** “[…] missing values were imputed with a 𝑘-nearest neighbors imputer with 𝑘 = 8 and distance-based weights (see Appendix B.1 for a deeper analysis on the imputation and its parameters).” [3] (from the article by Isaksson et al.; licensed under CC BY 4.0)
+> **Example#2.** “[…] missing values were imputed with a 𝑘-nearest neighbors imputer with 𝑘 = 8 and distance-based weights (see Appendix B.1 for a deeper analysis on the imputation and its parameters).” [3] (from [the article by Isaksson et al.](https://doi.org/10.1016/j.imu.2023.101161); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#29
 
@@ -27,7 +27,7 @@ Addressing missing values involves acknowledging the potential occurrence of dat
 {: .fs-2 }
 
 1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
-2. 	Lin Q, Wu HJ, Song QS, Tang YK (2022) CT-based radiomics in predicting pathological response in non-small cell lung cancer patients receiving neoadjuvant immunotherapy. Front Oncol 12:
+2. 	Lin Q, Wu HJ, Song QS, Tang YK (2022) CT-based radiomics in predicting pathological response in non-small cell lung cancer patients receiving neoadjuvant immunotherapy. Front Oncol 12. https://doi.org/10.3389/fonc.2022.937277
 3. 	Isaksson LJ, Repetto M, Summers PE, et al (2023) High-performance prediction models for prostate cancer radiomics. Inform Med Unlocked 37:101161. https://doi.org/10.1016/j.imu.2023.101161
 4. 	Stanzione A, Cuocolo R, Ugga L, et al (2022) Oncologic Imaging and Radiomics: A Walkthrough Review of Methodological Challenges. Cancers 14:4871. https://doi.org/10.3390/cancers14194871
 

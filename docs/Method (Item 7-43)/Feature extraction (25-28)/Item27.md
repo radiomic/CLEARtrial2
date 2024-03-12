@@ -14,9 +14,9 @@ nav_order: 27
 
 ### Reporting examples for CLEAR item#27
 
-> **Example#1.** “In total, we extracted 107 radiomics features (Supplementary Materials) from PCAT surrounding plaques with the reference of the image biomarker standardization initiative (IBSI).” [2] (from the article by Shang et al.; licensed under CC BY 4.0)
+> **Example#1.** “In total, we extracted 107 radiomics features (Supplementary Materials) from PCAT surrounding plaques with the reference of the image biomarker standardization initiative (IBSI).” [2] (from [the article by Shang et al.](https://doi.org/10.1007/s00330-021-08109-z); licensed under CC BY 4.0)
 
-> **Example#2.** “In total, 43 features were extracted from five-time points, resulting in 215 features for each case, which described the dynamic evolution of the contrast agent in the focus. […] three of the extracted features refer to the pre-contrast image and 32 refer to images acquired after the contrast injection split over the different time points” [3] (from the article by D’Amico et al.; licensed under CC BY 4.0)
+> **Example#2.** “In total, 43 features were extracted from five-time points, resulting in 215 features for each case, which described the dynamic evolution of the contrast agent in the focus. […] three of the extracted features refer to the pre-contrast image and 32 refer to images acquired after the contrast injection split over the different time points” [3] (from [the article by D’Amico et al.](https://doi.org/10.1186/s41747-019-0131-4); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#27
 

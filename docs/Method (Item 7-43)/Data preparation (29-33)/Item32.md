@@ -14,11 +14,11 @@ nav_order: 32
 
 ### Reporting examples for CLEAR item#32
 
-> **Example#1.** “Feature values were normalized to the (0,1) interval.” [2] (from the article by Kaissis et al.; licensed under CC BY 4.0)
+> **Example#1.** “Feature values were normalized to the (0,1) interval.” [2] (from [the article by Kaissis et al.](https://doi.org/10.1186/s41747-019-0119-0); licensed under CC BY 4.0)
 
-> **Example#2.** “Since images were acquired on multisite with different MRI acquisition protocols, a stage of harmonisation is necessary to remove the batch effect introduced by technical heterogeneity on radiomic data. Therefore, we apply the ComBat algorithm, a popular batch effect correction tool” [3] (from the article by Fradet et al.; licensed under CC BY 4.0)
+> **Example#2.** “Since images were acquired on multisite with different MRI acquisition protocols, a stage of harmonisation is necessary to remove the batch effect introduced by technical heterogeneity on radiomic data. Therefore, we apply the ComBat algorithm, a popular batch effect correction tool” [3] (from [the article by Fradet et al.](https://doi.org/10.1186/s41747-022-00295-9); licensed under CC BY 4.0)
 
-> **Example#3.** “To mitigate the risk of “snooping”—the inadvertent leakage of information from the test set that might lead to a form of overfitting—we partitioned our data into training and test sets (with a ratio of 80/20) prior to standardization.” [4] (from the article by Triantafyllou et al.; licensed under CC BY 4.0)
+> **Example#3.** “To mitigate the risk of “snooping”—the inadvertent leakage of information from the test set that might lead to a form of overfitting—we partitioned our data into training and test sets (with a ratio of 80/20) prior to standardization.” [4] (from [the article by Triantafyllou et al.](https://doi.org/10.3390/diagnostics13152587); licensed under CC BY 4.0)
 
 
 ### Explanation and elaboration of CLEAR item#32
