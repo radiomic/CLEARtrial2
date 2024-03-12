@@ -39,4 +39,3 @@ Data sharing and open science are important for several reasons. Firstly, it all
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Item2.html){: .btn .btn-purple .mr-5 }
-[Next](https://radiomic.github.io/CLEAR-E3/docs/Item4.html){: .btn .btn-purple   }
