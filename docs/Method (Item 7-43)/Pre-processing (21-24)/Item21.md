@@ -1,7 +1,7 @@
 ---
 title: Item#21
 layout: home
-parent: Modeling (34-37)
+parent: Pre-processing (21-24)
 grand_parent: Method (Item#7-43)
 nav_order: 21
 ---
