@@ -26,7 +26,7 @@ nav_order: 35
 >
 > ![Fig2](/CLEAR-E3/figs/Item35_Fig.png)
 >
-> Fig “Training and validation workflow of each SVM model for the prediction of GS” (from [the article by Solari et al.](https://doi.org/10.1007/s00259-021-05430-z); licensed under CC BY 4.0)
+> **Fig** “Training and validation workflow of each SVM model for the prediction of GS” (from [the article by Solari et al.](https://doi.org/10.1007/s00259-021-05430-z); licensed under CC BY 4.0)
 >
 
 ### Explanation and elaboration of CLEAR item#35
