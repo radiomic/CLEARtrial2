@@ -15,11 +15,11 @@ nav_order: 58
 
 ### Reporting examples for CLEAR item#58
 
-> **Example#1.** “The radiomics-based preoperative-Fistula Risk Score, which uses only preoperative CT features, is a new and promising radiomics-based score that has the potential to be integrated with hospital CT report systems and improve patient counselling before surgery. The model with underlying code is readily available via www.pancreascalculator.com and www.github.com/PHAIR-Consortium/POPF-predictor.” [2] (from [the article by Ingwersen et al.](https://doi.org/10.1093/bjsopen/zrad100); licensed under CC BY 4.0)
+> **Example#1.** “The radiomics-based preoperative-Fistula Risk Score, which uses only preoperative CT features, is a new and promising radiomics-based score that has the potential to be integrated with hospital CT report systems and improve patient counselling before surgery. The model with underlying code is readily available via [www.pancreascalculator.com](www.pancreascalculator.com) and [www.github.com/PHAIR-Consortium/POPF-predictor](https://doi.org/10.1186/s13244-023-01415-8).” [2] (from [the article by Ingwersen et al.](https://doi.org/10.1093/bjsopen/zrad100); licensed under CC BY 4.0)
 
-> **Example#2.** “We shared the code which we used for experiments in the COCO data set. Available from: https://github.com/VisionAI-USF/COCO_Size_Decoding.” [3] (from [the article by Cherezov et al.](https://doi.org/10.18383/j.tom.2019.00024); licensed under CC BY 4.0)
+> **Example#2.** “We shared the code which we used for experiments in the COCO data set. Available from: [https://github.com/VisionAI-USF/COCO_Size_Decoding](https://github.com/VisionAI-USF/COCO_Size_Decoding).” [3] (from [the article by Cherezov et al.](https://doi.org/10.18383/j.tom.2019.00024); licensed under CC BY 4.0)
 
-> **Example#3.** “The framework, as well as code for this analysis, are publicly available under https://github.com/pwoznicki/AutoRadiomics.” [4] (from [the article by Woznicki et al.](https://doi.org/10.3389/fradi.2022.919133); licensed under CC BY 4.0)
+> **Example#3.** “The framework, as well as code for this analysis, are publicly available under [https://github.com/pwoznicki/AutoRadiomics](https://github.com/pwoznicki/AutoRadiomics).” [4] (from [the article by Woznicki et al.](https://doi.org/10.3389/fradi.2022.919133); licensed under CC BY 4.0)
 
 ### Explanation and elaboration of CLEAR item#58
 
