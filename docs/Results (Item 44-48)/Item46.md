@@ -17,13 +17,13 @@ nav_order: 46
 >
 > ![Fig1](/CLEAR-E3/figs/Item46_Figure1.png)
 >
-> “Supplementary Figure S1. The importance level of selected radiomic features from the maximum wall thickness slice (a) and entire left ventricular myocardium (b). The cluster represents similar variable importance scores.” [2] (from [the article by Pu et al.](https://doi.org/10.1007/s00330-022-09217-0); licensed under CC BY 4.0)
+> “**Supplementary Figure S1.** The importance level of selected radiomic features from the maximum wall thickness slice (a) and entire left ventricular myocardium (b). The cluster represents similar variable importance scores.” [2] (from [the article by Pu et al.](https://doi.org/10.1007/s00330-022-09217-0); licensed under CC BY 4.0)
 
 > **Example#2.** “A total of 520 features were extracted. Of these, 198 resulted unstable after ICC assessment and were discarded, with 322 features left. Then, 10 low variance parameters were also excluded as well as 278 highly intercorrelated ones, as resulted from the pairwise correlation matrix shown in Figure S1. After class balancing with SMOTE, from the remaining 34 features, RFECV identified a subset of 10 […], including “original shape2D PerimeterSurfaceRatio”; “original shape2D Elongation”; “original glcm Autocorrelation”; “original gldm DependenceNonUniformityNormalized”; “log-sigma-1-0-mm-3D glcm Imc2”; “log-sigma-2-0-mm-3D glcm Correlation”; “log-sigma-3-0-mm-3D glrlm GrayLevelNonUniformityNormalized”; “log-sigma-4-0-mm-3D glcm Imc1”; “wavelet-H glcm Imc2”; “wavelet-H glrlm GrayLevelNonUniformityNormalized.” [3] (from [the article by Romeo et al.](https://doi.org/10.1007/s00330-021-08009-2); licensed under CC BY 4.0)
 >
 > ![Fig1](/CLEAR-E3/figs/Item46_Figure2.png)
 >
-> “Figure S1. Clustered heatmap showing the pairwise correlation matrix of the radiomic data in the training set prior (left) and after (right) removal of highly intercorrelated features from the dataset.”  [3] (from [the article by Romeo et al.](https://doi.org/10.1007/s00330-021-08009-2); licensed under CC BY 4.0)
+> “**Figure S1.** Clustered heatmap showing the pairwise correlation matrix of the radiomic data in the training set prior (left) and after (right) removal of highly intercorrelated features from the dataset.”  [3] (from [the article by Romeo et al.](https://doi.org/10.1007/s00330-021-08009-2); licensed under CC BY 4.0)
 
 > **Example#3.** “First, features with ICC values < 0.9 were excluded, and the radiomics features of DMI, LVSI, MSI, and Her-2 subsets were reduced from 2316 to 1199. Details of ICC values were listed in Supplementary Data S4. Among the remaining features, 409, 366, 390, and 409 features of DMI, LVSI, MSI, and Her-2 subsets were retained with correlation coefficients > 0.9 by Spearman’s correlation test. Next, 174, 122, 61, and 23 features of DMI, LVSI, MSI, and Her-2 subsets were retained using univariate analysis. Finally, 3, 7, 2, and 2 features were selected via LASSO regression (Figure 3 and Figure 4).” [4] (from [the article by Ma et al.](https://doi.org/10.3389/fonc.2023.1280022); licensed under CC BY 4.0)
 
