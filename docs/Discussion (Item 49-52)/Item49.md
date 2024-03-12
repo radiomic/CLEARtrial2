@@ -1,3 +1,10 @@
+---
+title: Item#49
+layout: home
+parent: Discussion (Item 49-52)
+nav_order: 49
+---
+
 ## CLEAR item#49
 
 

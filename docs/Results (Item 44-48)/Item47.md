@@ -1,3 +1,9 @@
+---
+title: Item#47
+layout: home
+parent: Results (Item 44-48)
+nav_order: 47
+---
 
 ## CLEAR item#47
 
