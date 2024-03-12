@@ -1,3 +1,11 @@
+---
+title: Item#19
+layout: home
+parent: Segmentation (19-20)
+grand_parent: Method (Item#7-43)
+nav_order: 19
+---
+
 ## CLEAR item#19
 
 

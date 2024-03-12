@@ -2,7 +2,7 @@
 title: Item#10
 layout: home
 parent: Study design (7-12)
-grand_parent: Method (Item 7-43)
+grand_parent: Method (Item#7-43)
 nav_order: 10
 ---
 
