@@ -14,7 +14,7 @@ nav_order: 9
 
 ### Reporting examples for CLEAR item#9
 
-> **Example#1.** “In the estimation of sample size for radiomics model construction, at least 48 cases (12 macrotrabecular-massive [MTM] cases and 36 non-MTM cases) were required in each dataset according to the following input and assumption: power, 0.9; two-sided significance level, 0.05; alternative hypothesis of the area under the curve (AUC), 0.800 compared with the null hypothesis of the AUC, 0.500, and an allocation ratio of sample sizes in the negative and positive groups of 3” [2] (from [the article by Feng et al.]([https://doi.org/10.1148/radiol.221291); licensed under CC BY 4.0)
+> **Example#1.** “In the estimation of sample size for radiomics model construction, at least 48 cases (12 macrotrabecular-massive [MTM] cases and 36 non-MTM cases) were required in each dataset according to the following input and assumption: power, 0.9; two-sided significance level, 0.05; alternative hypothesis of the area under the curve (AUC), 0.800 compared with the null hypothesis of the AUC, 0.500, and an allocation ratio of sample sizes in the negative and positive groups of 3” [2] (from [the article by Feng et al.](https://pubs.rsna.org/doi/10.1148/radiol.221291); licensed under CC BY 4.0)
 
 > **Example#2.** “To evaluate the sample size for the validation group, we performed a power analysis based on the LNM rates of the training dataset and the validation dataset.” [3] (from [the article by An et al.](https://doi.org/10.1371/journal.pone.0256152); licensed under CC BY 2.0)
 
