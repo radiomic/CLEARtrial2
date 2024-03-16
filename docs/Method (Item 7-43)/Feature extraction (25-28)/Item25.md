@@ -22,7 +22,7 @@ nav_order: 25
 >
 >![Fig1](/CLEAR-E3/figs/Item25_Fig1.png)
 >
->Figure 1. “Schematic of deep feature extraction, selection, and fusion for the ResNet50 network.” [4] (from [the article by Dai et al.](https://doi.org/10.3389/fonc.2023.1261080); licensed under CC BY 4.0)
+>**Figure 1.** “Schematic of deep feature extraction, selection, and fusion for the ResNet50 network.” [4] (from [the article by Dai et al.](https://doi.org/10.3389/fonc.2023.1261080); licensed under CC BY 4.0)
 
 
 ### Explanation and elaboration of CLEAR item#25
