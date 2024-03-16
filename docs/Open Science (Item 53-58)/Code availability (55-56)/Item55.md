@@ -15,11 +15,11 @@ nav_order: 55
 
 ### Reporting examples for CLEAR item#55
 
-> **Example#1.** “The main radiomic features data and radiomics analysis codes are available in https://github.com/JZK00/Ultrasound-Image-Based-Radiomics.” [14]  (from [the article by Wang et al.](https://doi.org/10.1002/jum.16059); licensed under CC BY-NC-ND 4.0)
+> **Example#1.** “The main radiomic features data and radiomics analysis codes are available in [https://github.com/JZK00/Ultrasound-Image-Based-Radiomics](https://github.com/JZK00/Ultrasound-Image-Based-Radiomics).” [14]  (from [the article by Wang et al.](https://doi.org/10.1002/jum.16059); licensed under CC BY-NC-ND 4.0)
 
-> **Example#2.** “The used source codes are available at GitHub (https://github.com/tt1107/wangradiology).” [2] (from [the article by Wang et al.](https://doi.org/10.1148/radiol.2021210109); licensed under CC BY 4.0)
+> **Example#2.** “The used source codes are available at GitHub ([https://github.com/tt1107/wangradiology]((https://github.com/tt1107/wangradiology)).” [2] (from [the article by Wang et al.](https://doi.org/10.1148/radiol.2021210109); licensed under CC BY 4.0)
 
-> **Example#3.** “The parameter file for the radiomic data extraction is available in a freely accessible online repository (https://github.com/rcuocolo/mri_act_cs2).” [3] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
+> **Example#3.** “The parameter file for the radiomic data extraction is available in a freely accessible online repository ([https://github.com/rcuocolo/mri_act_cs2](https://github.com/rcuocolo/mri_act_cs2)).” [3] (from [the article by Gitto et al.](https://doi.org/10.1016/j.ebiom.2021.103757); licensed under CC BY-NC-ND 4.0)
 
 ### Explanation and elaboration of CLEAR item#55
 
