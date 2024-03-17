@@ -30,9 +30,9 @@ Item#6 highlights how a clear and thorough summary of the goals and importance o
 {: .fs-2 }
 
 1. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
-2. 	Long H, Zhang P, Bi Y, et al (2023) MRI radiomic features of peritumoral edema may predict the recurrence sites of glioblastoma multiforme. Front Oncol 12. [https://doi.org/10.3389/fonc.2022.1042498](https://doi.org/10.3389/fonc.2022.1042498)
+2. 	Long H, Zhang P, Bi Y, et al (2023) MRI radiomic features of peritumoral edema may predict the recurrence sites of glioblastoma multiforme. Front Oncol 12. https://doi.org/10.3389/fonc.2022.1042498
 3. 	Jiang Y-W, Xu X-J, Wang R, Chen C-M (2022) Radiomics analysis based on lumbar spine CT to detect osteoporosis. Eur Radiol 32:8019–8026. https://doi.org/10.1007/s00330-022-08805-4
-4. 	Pasquini L, Napolitano A, Lucignani M, et al (2021) AI and High-Grade Glioma for Diagnosis and Outcome Prediction: Do All Machine Learning Models Perform Equally Well? Front Oncol 11. [https://doi.org/10.3389/fonc.2021.601425](https://doi.org/10.3389/fonc.2021.601425)
+4. 	Pasquini L, Napolitano A, Lucignani M, et al (2021) AI and High-Grade Glioma for Diagnosis and Outcome Prediction: Do All Machine Learning Models Perform Equally Well? Front Oncol 11. https://doi.org/10.3389/fonc.2021.601425
 
 
 [Back](https://radiomic.github.io/CLEAR-E3/docs/Introduction%20(Item%204-6)/Item5.html){: .btn .btn-purple .mr-5 }
