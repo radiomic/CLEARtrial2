@@ -19,7 +19,7 @@ nav_order: 57
 
 ### Explanation and elaboration of item#57
 
-Item#57 focuses on the importance of sharing the final model and source code to increase the transparency of radiomics research. This is strictly related to the reproducibility concerns of current radiomics research. Limited availability of open-source code and data is one of the main reasons for poor validation and clinical translation of radiomics research. Currently, there is a paucity of radiomics and artificial intelligence studies reporting providing final model code, as reported by recent systematic reviews [4–6]. Most radiomics research is oriented towards publishing new models without providing access to the code, rather than testing the performance of already developed data.
+Item#57 focuses on the importance of sharing the final model and source code to increase the transparency of radiomics research. This is strictly related to the reproducibility concerns of current radiomics research. Limited availability of data, open-source code, and model is one of the main reasons for poor validation and clinical translation of radiomics research. Currently, there is a paucity of radiomics and artificial intelligence studies reporting providing final model, as reported by recent systematic reviews [4–6]. Most radiomics research is oriented toward publishing new models without providing access to them, rather than testing the performance of already developed models.
 
 ### References
 
